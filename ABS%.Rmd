@@ -1,0 +1,145 @@
+---
+title: "ABSENTEEISM REPORT SQUARE-SITEL"
+author: "WFM @ Square-SITEL"
+date: "Last Updated on `r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_document:
+    code_folding: hide
+
+---
+
+```{r, warning=FALSE, message=FALSE}
+Sys.setenv(LANG = "en")
+
+requiredPackages = c("ggplot2", "tidyverse","lubridate","DT","scales")
+
+for(i in requiredPackages){if(!require(i,character.only = TRUE)) install.packages(i)}
+for(i in requiredPackages){if(!require(i,character.only = TRUE)) library(i,character.only = TRUE)}
+
+```
+
+
+```{r, warning=FALSE, message=FALSE}
+##Data Import
+data_schedule <- read.csv("Data/schedule.csv")
+data_activity <- read.csv("Data/activity.csv")
+data_schedule2 <- read.csv("Data/schedule2.csv")
+
+activity_roster <- read.csv("Data/activityRoster.csv")
+agent_roster <- read.csv("Data/agentRoster.csv")
+agent_roster$NICE.ID <- as.numeric(agent_roster$NICE.ID)
+# data_OT <- read_sheet("https://docs.google.com/spreadsheets/d/1vOhYf46hHMJqaYFy14svGp1eHSXCyXvY1U9GPk02Tfo/edit#gid=30771355")
+```
+
+```{r}
+
+ProductiveActivities <- activity_roster$Activity[activity_roster$Paid_or_Not=="YES"]
+AbsenceActivities <- activity_roster$Activity[activity_roster$Absence_NOT=="YES"]
+```
+
+
+
+```{r}
+#Scheduled Per Interval
+data_schedule2$login <- as.POSIXct(paste(as.Date(data_schedule2$Date, origin = "1899-12-30"), data_schedule2$Start.time),  # Add hours, minutes & seconds
+                            format = "%Y-%m-%d %H:%M:%S")
+```
+
+
+```{r, echo=FALSE,results='hide',fig.keep='all'}
+data_schedule$Date <- as.Date(data_schedule$Date)
+data_activity$Date <- as.Date(data_activity$Date)
+
+data_activity$Length <- as.numeric(hms(paste0(data_activity$Length, ":00")))/3600
+data_schedule$Length <- as.numeric(hms(paste0(data_schedule$Length, ":00")))/3600
+
+
+data_schedule_Roster <- left_join(data_schedule, agent_roster, by = c("Agent.ID" = "NICE.ID"))
+data_activity_Roster <- left_join(data_activity, agent_roster, by = c("Agent.ID" = "NICE.ID"))
+
+
+Worked_perDay <- data_activity_Roster %>% filter(Agent.Activity %in% ProductiveActivities) %>% group_by(MU,Team.Lead, Locaton, Agent.ID,Agent.Name,Date) %>% summarise(Worked_Hrs = round(sum(Length,na.rm = TRUE),2))
+Absence_perDay <- data_schedule_Roster %>% filter(Scheduled.Activity %in% AbsenceActivities) %>% group_by(Agent.ID,Agent.Name,Date) %>% summarise(Absent_Hrs = round(sum(Length,na.rm = TRUE),2))
+
+Worked_Absence_perDay <- full_join(Worked_perDay, Absence_perDay, by = c("Agent.ID","Agent.Name","Date"))
+
+```
+
+```{r, message=FALSE}
+
+datatable(Worked_Absence_perDay,caption='Table 1. Worked and Absent Hours',
+            rowname = F,
+            filter = 'top')
+
+```
+
+
+```{r,echo=FALSE,results='hide',fig.keep='all'}
+#Absenteeism by MU
+
+Absenteism_MU_date <- Worked_Absence_perDay %>% group_by(MU,Date) %>% summarise(ABS = round(sum(Absent_Hrs,na.rm = TRUE),2), Worked = round(sum(Worked_Hrs,na.rm = TRUE),2))
+Absenteism_MU_date$ABS_ <-Absenteism_MU_date$ABS/(Absenteism_MU_date$ABS + Absenteism_MU_date$Worked)
+
+Absenteism_MU <-Absenteism_MU_date %>% group_by(MU) %>% summarise(ABS_ = 100*round(mean(ABS_,na.rm = TRUE),2))
+Absenteism_MU <- Absenteism_MU[complete.cases(Absenteism_MU),]
+ 
+```
+
+```{r}
+
+Absenteism_MU %>% ggplot(aes(x=reorder(MU, ABS_, sum), y=ABS_, fill=MU)) +
+  geom_col(width=0.5) + 
+  labs(title = "ABSENTEEISM BY MU",
+       x ="MU", y = "ABS%")+
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+```
+
+```{r}
+
+ggplot(data = Absenteism_MU_date[complete.cases(Absenteism_MU_date),],
+       aes(x = Date, y = ABS_, color = MU)) + 
+  geom_line(size = 1)+
+  labs(title = "ABSENTEEISM BY MU PERDAY",
+       x ="", y = "ABS%")+
+  theme(axis.text.x = element_text(angle = 60, vjust = 0.5, hjust=1)) +
+scale_x_continuous(labels = unique(Absenteism_MU_date$Date), breaks = unique(Absenteism_MU_date$Date))
+
+
+```
+
+
+
+
+```{r,echo=FALSE,results='hide',fig.keep='all'}
+# Absenteeism by Team Leader
+
+Absenteism_TL_date <- Worked_Absence_perDay %>% group_by(Team.Lead,Date) %>% summarise(ABS = round(sum(Absent_Hrs,na.rm = TRUE),2), Worked = round(sum(Worked_Hrs,na.rm = TRUE),2))
+Absenteism_TL_date$ABS_ <-Absenteism_TL_date$ABS/(Absenteism_TL_date$ABS + Absenteism_TL_date$Worked)
+
+Absenteism_TL <-Absenteism_TL_date %>% group_by(Team.Lead) %>% summarise(ABS_ = 100*round(mean(ABS_,na.rm = TRUE),2))
+Absenteism_TL <-Absenteism_TL[complete.cases(Absenteism_TL),]
+ 
+```
+```{r}
+
+Absenteism_TL%>% ggplot(aes(x=reorder(Team.Lead, ABS_, sum), y=ABS_, fill=Team.Lead)) +
+  geom_col(width=0.5) + 
+  labs(title = "ABSENTEEISM BY TEAM LEADER",
+       x ="", y = "ABS%")+
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))+
+  guides(fill = FALSE)+
+  geom_text(aes(label = ABS_), vjust = -0.2)
+```
+
+```{r}
+
+# Absenteeism by Agent
+Absenteism_Agent <- Worked_Absence_perDay %>% group_by(Agent.Name) %>% summarise(ABS = round(sum(Absent_Hrs,na.rm = TRUE),2), Worked = round(sum(Worked_Hrs,na.rm = TRUE),2))
+Absenteism_Agent$ABS_ <- paste0(100*round(Absenteism_Agent$ABS/(Absenteism_Agent$ABS + Absenteism_Agent$Worked),2),"%")
+
+datatable(Absenteism_Agent,caption='Table 1. Absenteeism per agent',
+            rowname = F,
+            filter = 'top')
+
+```
+
