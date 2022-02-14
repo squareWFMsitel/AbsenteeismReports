@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Date;Agent ID;Agent Name;Scheduled Activity;Length;Percent
 01.01.2022;22670;Abayomi, Samuel;Time Off-Partner;01:00;100,00%
 01.01.2022;25813;Abebe, Yustina;Break;00:10;8,33%
@@ -37246,3 +37247,43 @@ Date;Agent ID;Agent Name;Scheduled Activity;Length;Percent
 13.02.2022;21150;Zondesa, Ndangariro;Break;00:10;3,33%
 13.02.2022;21150;Zondesa, Ndangariro;Email;04:20;86,67%
 13.02.2022;21150;Zondesa, Ndangariro;Lunch PAID;00:30;10,00%
+=======
+Date,Agent ID,Agent Name,Scheduled Activity,Length,Percent
+2022-02-13,17957,"Kalonje, Albertina",Unplanned Absence,08:00,100.00%
+2022-02-13,19945,"Kaseke, Hazvineyi",Sick Time,03:00,100.00%
+2022-02-13,17966,"Okoror, Courage",Tardy,02:45,100.00%
+2022-02-14,22670,"Abayomi, Samuel",Unplanned Absence,07:00,100.00%
+2022-02-14,22963,"Abdulnabi, Abdulrazaak",Sick Time,08:00,100.00%
+2022-02-14,22663,"Abdusalomov, Okhunjon",Tardy,00:10,100.00%
+2022-02-14,24910,"Ahmed, Khalid",Sick Time,08:00,100.00%
+2022-02-14,26648,"Alemayehu, Bezawit",Unplanned Absence,08:00,100.00%
+2022-02-14,21589,"Asebot, Hanna",Unplanned Absence,08:00,100.00%
+2022-02-14,27469,"Berhe, Bethelhem",Unplanned Absence,08:00,100.00%
+2022-02-14,14512,"Chewe, Afomia",Sick Time,06:00,100.00%
+2022-02-14,23190,"Chinembiri, Tanaka",Tardy,01:00,100.00%
+2022-02-14,21580,"Demilew, Haymanot",Unplanned Absence,07:00,100.00%
+2022-02-14,21829,"Gelaw, Betelhem",Tardy,01:00,100.00%
+2022-02-14,21845,"Gumbi, Tatenda",Unplanned Absence,08:00,100.00%
+2022-02-14,19949,"Horonga, Ngonidzashe Sean",Tardy,02:00,100.00%
+2022-02-14,25819,"Inyang, Jesam",Unplanned Absence,07:00,100.00%
+2022-02-14,22678,"Ishimwe, Alice",Tardy,00:30,100.00%
+2022-02-14,21847,"Kayabo, Hugues",Tardy,02:00,100.00%
+2022-02-14,22673,"Kaze, Tanguy",Unplanned Absence,05:00,100.00%
+2022-02-14,27646,"Makhmudova, Sakina",Unplanned Absence,08:00,100.00%
+2022-02-14,25168,"Matambudzo, Florence",Tardy,01:30,100.00%
+2022-02-14,22655,"Mtui, Victor",Unplanned Absence,08:00,100.00%
+2022-02-14,23487,"Mutsvagiwa, Bernadette",Sick Time,08:00,100.00%
+2022-02-14,25180,"Ndikubwimana, Rosine",Sick Time,08:00,100.00%
+2022-02-14,28071,"Ndori, Tatenda",Tardy,01:00,100.00%
+2022-02-14,19956,"Ngara, Tanaka Peter",Tardy,01:00,100.00%
+2022-02-14,21857,"Ntwali, Daniel",Unplanned Absence,04:30,100.00%
+2022-02-14,24905,"Ogwu, Abel",Tardy,00:30,100.00%
+2022-02-14,17966,"Okoror, Courage",Sick Time,08:00,100.00%
+2022-02-14,27639,"Patil, Rupesh",Tardy,00:20,100.00%
+2022-02-14,21832,"Saidshoeva, Mastona",Unplanned Absence,08:00,100.00%
+2022-02-14,25163,"Sengupta, Arghya",Tardy,01:00,100.00%
+2022-02-14,21591,"Tapiwanashe, Samuriwo",Unplanned Absence,08:00,100.00%
+2022-02-14,25812,"Willemse, Ravinaldo",Unplanned Absence,08:00,100.00%
+2022-02-14,21586,"Woldesemayat, Tsion",Unplanned Absence,08:00,100.00%
+2022-02-14,25833,"Zimondi, Bertha",Tardy,02:00,100.00%
+>>>>>>> 05382775bee53b54a52baa7728a471327e931e3c
