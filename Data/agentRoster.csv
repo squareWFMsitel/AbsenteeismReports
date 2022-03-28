@@ -1,37 +1,42 @@
 Full-name2,NICE ID,Full Name,First name Agent,Last name Agent,MU,Locaton,Team Lead,LOB_country,Contract,Salary,WFH?,Sitel ID
-Yared Abay,23486,"Abay, Yared",Yared,Abay,GQ,"Gdansk, PL",Agata Mielewczyk,ENG,Freelancer,21,W@H,1380454
-Samuel Abayomi,22670,"Abayomi, Samuel",Samuel,Abayomi,GQ,"Warsaw, PL",Rafal Rogowski,ENG,Freelancer,22,W@H,1374819
+Yared Abay,23486,"Abay, Yared",Yared,Abay,GQ ENG,"Gdansk, PL",Agata Mielewczyk,ENG,Freelancer,21,W@H,1380454
+Samuel Abayomi,22670,"Abayomi, Samuel",Samuel,Abayomi,GQ ENG,"Warsaw, PL",Rafal Rogowski,ENG,Freelancer,22,W@H,1374819
 Thaheba Abdu,23204,"Abdu, Thaheba",Thaheba,Abdu,GQ ENG,"Warsaw, PL",Rafa³ Rogowski,ENG,Freelancer,21,B&M,
-Abdulrazaak Abdulnabi,22963,"Abdulnabi, Abdulrazaak",Abdulrazaak,Abdulnabi,GQ,"Gdansk, PL",Justyna Klimek,ENG,Freelancer,21,W@H,1376798
+Abdulrazaak Abdulnabi,22963,"Abdulnabi, Abdulrazaak",Abdulrazaak,Abdulnabi,GQ ENG,"Gdansk, PL",Justyna Klimek,ENG,Freelancer,21,W@H,1376798
 Okhunjon Abdusalomov,22663,"Abdusalomov, Okhunjon",Okhunjon,Abdusalomov,GQ ENG,"Warsaw, PL",Anna Sabbatini,ENG,Freelancer,22,W@H,1375155
 Fitsum Abebe,26645,"Abebe, Fitsum",,,GQ ENG,"Gdansk, PL",£ukasz Cierpiñski,ENG,Freelancer,22,W@H,1401435
+Igor Abebe,X,"Abebe, Igor",Igor,Abebe,0,"Gdansk, PL",0,ENG,Freelancer,21,B&M,0
 Yustina Abebe,25813,"Abebe, Yustina",Yustina,Abebe,GQ ENG,"Warsaw, PL",Anna Sabbatini,ENG,Freelancer,22,W@H,1395515
 Zekarias Abera,19959,"Abera, Zekarias",Zekarias,Abera,GQ ENG,"Warsaw, PL",Nontobeko Linda Moyo,ENG,Freelancer,21,W@H,1343161
-Rafiat Abosede Ogundele,21152,"Abosede Ogundele, Rafiat",Rafiat,Abosede Ogundele,GQ ENG,"Warsaw, PL",Belinda Mutsakanyi,ENG,Freelancer,#N/A,#N/A,
+Rafiat Abosede Ogundele,21152,"Abosede Ogundele, Rafiat",Rafiat,Abosede Ogundele,RTL,"Warsaw, PL",Belinda Mutsakanyi,ENG,Freelancer,#N/A,#N/A,
 Chinedu Achareke,26657,"Achareke, Chinedu",,,GQ ENG,"Warsaw, PL",Iwona Koszel,ENG,Freelancer,21,W@H,
 Paul Acheampong,20978,"Acheampong, Paul",Paul,Acheampong,GQ ENG,"Gdansk, PL",Klaudia Gutowska,ENG,Contract,22,W@H,1355401
-Adebayo Adewusi,24900,"Adewusi, Adebayo",Adebayo,Adewusi,GQ,"Gdansk, PL",Aleksander Demiaszkiewicz,ENG,Freelancer,21,B&M,158
+Adebayo Adewusi,24900,"Adewusi, Adebayo",Adebayo,Adewusi,GQ ENG,"Gdansk, PL",Aleksander Demiaszkiewicz,ENG,Freelancer,21,B&M,158
 Khalid Ahmed,24910,"Ahmed, Khalid",Khalid,Ahmed,GQ ENG,"Gdansk, PL",£ukasz Cierpiñski,ENG,Freelancer,21,B&M,1388329
 Etilina Ahokava,22783,"Ahokava, Etilina",Etilina,Ahokava,AU GQ,Auckland,#N/A,ENG,Contract,#N/A,#N/A,#N/A
 Mugabo Aimable,21588,"Aimable, Mugabo",Mugabo,Aimable,GQ ENG,"Gdansk, PL",Agata Mielewczyk,ENG,Freelancer,22,W@H,1368380
 Oluwatoroti Aina,24513,"Aina, Oluwatoroti",Oluwatoroti,Aina,GQ ENG,"Warsaw, PL",Marek Pucu³ek,ENG,Freelancer,21,#N/A,
 Jeremiah Akanbi,24517,"Akanbi, Jeremiah",Jeremiah,Akanbi,GQ ENG,"Warsaw, PL",Anna Sabbatini,ENG,Contract,#N/A,#N/A,1383420
-Joseph Akinleye,23476,"Akinleye, Joseph",Joseph,Akinleye,GQ,"Gdansk, PL",Justyna Klimek,ENG,Freelancer,21,W@H,1380441
-Hagenimana Alain,23183,"Alain, Hagenimana",Hagenimana,Alain,GQ FRENCH,"Warsaw, PL",Belinda Mutsakanyi,FR/ENG,Contract,32,B&M,1378102
+Joseph Akinleye,23476,"Akinleye, Joseph",Joseph,Akinleye,GQ ENG,"Gdansk, PL",Justyna Klimek,ENG,Freelancer,21,W@H,1380441
+Hagenimana Alain,23183,"Alain, Hagenimana",Hagenimana,Alain,RTL,"Warsaw, PL",Belinda Mutsakanyi,ENG,Contract,32,B&M,1378102
+Nshimyumuremyi Alain-Bonheur,X,"Alain-Bonheur, Nshimyumuremyi",Nshimyumuremyi,Alain-Bonheur,GQ ENG,"Gdansk, PL",Dawid Czaplak,ENG,Freelancer,21,B&M,1376902
+Nader Albin,X,"Albin, Nader",Nader,Albin,GQ ENG,"Gdansk, PL",Klaudia Gutowska,ENG,Freelancer,21,W@H,56
 Amanuel Alemayehu,25835,"Alemayehu, Amanuel",Amanuel,Alemayehu,GQ ENG,"Warsaw, PL",Belinda Mutsakanyi,ENG,Freelancer,22,W@H,
 Bezawit Alemayehu,26648,"Alemayehu, Bezawit",Bezawit,Alemayehu,GQ ENG,"Warsaw, PL",Edward Nakula,ENG,Freelancer,22,W@H,
 Shareen Ali,22784,"Ali, Shareen",Shareen,Ali,AU GQ,Auckland,#N/A,ENG,Contract,#N/A,#N/A,#N/A
 Syed Ali,25155,"Ali, Syed",Syed,Ali,GQ ENG,"Warsaw, PL",Iwona Koszel,ENG,Freelancer,22,#N/A,
 Parviz Alijonovich Saidov,19951,"Alijonovich Saidov, Parviz",Parviz,Alijonovich Saidov,GQ ENG,"Warsaw, PL",Anna Sabbatini,ENG,Freelancer,#N/A,#N/A,1343331
 Ulduza Aliyeva,26909,"Aliyeva, Ulduza",,,GQ ENG,"Gdansk, PL",Klaudia Gutowska,ENG,Freelancer,21,W@H,1401744
+Victoria Aliyeva,X,"Aliyeva, Victoria",Victoria,Aliyeva,GQ ENG,"Gdansk, PL",0,ENG,Freelancer,21,B&M,0
 Erica Alva,15997,"Alva, Erica",Erica,Alva,Sitel Email,"Warsaw, PL",Ricardo Vargas,ENG,Freelancer,22,W@H,1253281
 Ehiosumwen Amadasun,20318,"Amadasun, Ehiosumwen",Ehiosumwen,Amadasun,GQ ENG,"Warsaw, PL",Khurshed Gulbekov,ENG,Contract,22,W@H,1347110
+Tsion Amesila,X,"Amesila, Tsion",Tsion,Amesila,GQ ENG,"Gdansk, PL",Marzena Nowak,ENG,Freelancer,21,B&M,1393612
 Bruno Aniegbuna,24901,"Aniegbuna, Bruno",Bruno,Aniegbuna,GQ ENG,"Gdansk, PL",Marzena Nowak,ENG,Contract,21,B&M,1388288
 Clune Annah,25140,"Annah, Clune",Clune,Annah,AU GQ,Auckland,#N/A,ENG,Contract,#N/A,#N/A,#N/A
 Seumanutafa Anne,25144,"Anne, Seumanutafa",Seumanutafa,Anne,AU GQ,Auckland,#N/A,ENG,Contract,#N/A,#N/A,#N/A
 Shungidza Aphiri,18002,"Aphiri, Shungidza",Shungidza,Aphiri,OVN,"Warsaw, PL",Jemal Babayeva,ENG,Freelancer,21,W@H,0
 Delcie Apwa,13829,"Apwa, Delcie",Delcie,Apwa,French Risk,"Warsaw, PL",Mi³ka Szuster,FR/ENG,Contract,30,W@H,0
-Hanna Asebot,21589,"Asebot, Hanna",Hanna,Asebot,GQ,"Gdansk, PL",Justyna Klimek,ENG,Freelancer,21,W@H,16
+Hanna Asebot,21589,"Asebot, Hanna",Hanna,Asebot,GQ ENG,"Gdansk, PL",Justyna Klimek,ENG,Freelancer,21,W@H,16
 Hermela Asrat,23748,"Asrat, Hermela",Hermela,Asrat,GQ ENG,"Warsaw, PL",Belinda Mutsakanyi,ENG,Freelancer,21,W@H,
 Hilina Asres,20321,"Asres, Hilina",Hilina,Asres,GQ ENG,"Warsaw, PL",Khurshed Gulbekov,ENG,Freelancer,23,W@H,1230291
 Blen Assfha,25824,"Assfha, Blen",Blen,Assfha,GQ ENG,"Warsaw, PL",Edward Nakula,ENG,Freelancer,21,W@H,
@@ -39,20 +44,28 @@ Toussaint Avemariya,21852,"Avemariya, Toussaint",Toussaint,Avemariya,UK/FR,"Wars
 Ayorinde Awoyale,21592,"Awoyale, Ayorinde",Ayorinde,Awoyale,GQ ENG,"Gdansk, PL",Justyna Klimek,ENG,Contract,21,W@H,1368094
 Junior Ayak,26663,"Ayak, Junior",,,UK/FR,"Warsaw, PL",Mi³ka Szuster,FR/ENG,Freelancer,21,W@H,
 Baltazar Ayalew,22672,"Ayalew, Baltazar",Baltazar,Ayalew,GQ ENG,"Warsaw, PL",Edward Nakula,ENG,Freelancer,21,W@H,
-Yeamlak Ayele,20336,"Ayele, Yeamlak",Yeamlak,Ayele,GQ,"Warsaw, PL",Iwona Koszel,ENG,Freelancer,21,W@H,0
+Yeamlak Ayele,20336,"Ayele, Yeamlak",Yeamlak,Ayele,GQ ENG,"Warsaw, PL",Iwona Koszel,ENG,Freelancer,21,W@H,0
 Azizbek Azizillayev,19935,"Azizillayev, Azizbek",Azizbek,Azizillayev,GQ ENG,"Warsaw, PL",Anna Sabbatini,ENG,Freelancer,22,W@H,1343470
 Yeabsira Baheru,26647,"Baheru, Yeabsira",Yeabsira,Baheru,GQ ENG,"Warsaw, PL",Anna Sabbatini,ENG,Freelancer,22,W@H,1196131
 Dagim Balcha,15223,"Balcha, Dagim",Dagim,Balcha,PQ OVN,"Warsaw, PL",Iwona Koszel,ENG,Freelancer,23,W@H,1288494
+Jedidiah Baloyi,X,"Baloyi, Jedidiah",Jedidiah,Baloyi,GQ ENG,"Gdansk, PL",Klaudia Gutowska,ENG,Freelancer,21,W@H,62
+Chanju Banda,X,"Banda, Chanju",Chanju,Banda,GQ ENG,"Gdansk, PL",Klaudia Gutowska,ENG,Freelancer,21,W@H,68
 Bogusz Barczewski,24902,"Barczewski, Bogusz",Bogusz,Barczewski,GQ ENG,"Gdansk, PL",£ukasz Cierpiñski,ENG,Contract,21,B&M,1388313
+Priyanka Barnabas,X,"Barnabas, Priyanka",Priyanka,Barnabas,GQ ENG,"Warsaw, PL",Vishnu Balakrishnan,ENG,Freelancer,21,W@H,0
 Aida Barreda,26667,"Barreda, Aida",Aida,Barreda,ES/UK,"Warsaw, PL",Belinda Mutsakanyi,ES/ENG,Freelancer,21,W@H,
 Claribel Barth-obi,25818,"Barth-obi, Claribel",Claribel,Barth-obi,GQ ENG,"Warsaw, PL",Iwona Koszel,ENG,Freelancer,21,W@H,
 Ian Basiisa,14531,"Basiisa, Ian",Ian,Basiisa,PQ OVN,"Warsaw, PL",Iwona Koszel,ENG,Freelancer,22,W@H,1230546
 Keziah Bature,24909,"Bature, Keziah",Keziah,Bature,GQ ENG,"Gdansk, PL",Marzena Nowak,ENG,Freelancer,21,B&M,1388286
-Yohans Bekele,22957,"Bekele, Yohans",Yohans,Bekele,GQ,"Gdansk, PL",Agata Mielewczyk,ENG,Freelancer,21,W@H,1376875
+Yohans Bekele,22957,"Bekele, Yohans",Yohans,Bekele,GQ ENG,"Gdansk, PL",Agata Mielewczyk,ENG,Freelancer,21,W@H,1376875
+Elias Belachew,X,"Belachew, Elias",Elias,Belachew,OVN,"Warsaw, PL",Iwona Koszel,ENG,Freelancer,22,W@H,1288069
 feven belay,23195,"belay, feven",feven,belay,GQ ENG,"Warsaw, PL",Belinda Mutsakanyi,ENG,Freelancer,21,B&M,1378330
+Robera Benti,X,"Benti, Robera",Robera,Benti,GQ ENG,"Gdansk, PL",Lukasz Cierpinski,ENG,Freelancer,21,B&M,1393630
 Rohan Bhadra,24514,"Bhadra, Rohan",Rohan,Bhadra,PRE SAS,"Warsaw, PL",Victoria Yurkina,ENG,Freelancer,21,#N/A,
+Paulos Birhanu,X,"Birhanu, Paulos",Paulos,Birhanu,GQ ENG,"Warsaw, PL",Nontobeko Moyo,ENG,Freelancer,26,W@H,1230534
 Salumu Blair,24349,"Blair, Salumu",Salumu,Blair,GQ ENG,"Gdansk, PL",Justyna Klimek,ENG,Freelancer,22,#N/A,1383922
+Jaroslaw Borowski,X,"Borowski, Jaroslaw",Jaroslaw,Borowski,GQ ENG,"Gdansk, PL",Klaudia Gutowska,ENG,Contract,21,W@H,63
 Achraf Bouzid,23198,"Bouzid, Achraf",Achraf,Bouzid,GQ ENG,"Warsaw, PL",Nontobeko Linda Moyo,ENG,Freelancer,21,W@H,1378344
+Tatenda Bvungidzire,X,"Bvungidzire, Tatenda",Tatenda,Bvungidzire,GQ ENG,"Gdansk, PL",Aleksander Demiaszkiewicz,ENG,Freelancer,21,W@H,1380451
 Benjamin Bvunza,19937,"Bvunza, Benjamin",Benjamin,Bvunza,PRE SAS,"Warsaw, PL",Victoria Yurkina,ENG,Freelancer,23,W@H,1343471
 Pascaline Byiringiro,17404,"Byiringiro, Pascaline",Pascaline,Byiringiro,FR GQ,"Warsaw, PL",Mi³ka Szuster,FR/ENG,Freelancer,29,W@H,0
 Jedda Byrne,22788,"Byrne, Jedda",Jedda,Byrne,AU GQ,Auckland,#N/A,ENG,Contract,#N/A,#N/A,#N/A
@@ -62,12 +75,14 @@ Devaughn Chaukura,21843,"Chaukura, Devaughn",Devaughn,Chaukura,GQ ENG,"Warsaw, P
 Afomia Chewe,14512,"Chewe, Afomia",Afomia,Chewe,RST,"Warsaw, PL",Fadzisai Chinyamakobvu,ENG,Freelancer,23,W@H,1277330
 Mark Chibindi,24493,"Chibindi, Mark",Mark,Chibindi,GQ ENG,"Warsaw, PL",Marek Pucu³ek,ENG,Freelancer,#N/A,#N/A,
 Nwarueze Chidiebere,23480,"Chidiebere, Nwarueze",Nwarueze,Chidiebere,GQ ENG,"Gdansk, PL",Agata Mielewczyk,ENG,Freelancer,#N/A,#N/A,1380442
+Tendai-Mambo Chiguvare,X,"Chiguvare, Tendai-Mambo",Tendai-Mambo,Chiguvare,GQ ENG,"Warsaw, PL",Iwona Koszel,ENG,Freelancer,21,W@H,0
 Belinda Chikovo,16388,"Chikovo, Belinda",Belinda,Chikovo,RTL,"Warsaw, PL",Jemal Babayeva,ENG,Freelancer,24,W@H,1315166
 Courtney Chimedza,20965,"Chimedza, Courtney",Courtney,Chimedza,GQ ENG,"Gdansk, PL",Klaudia Gutowska,ENG,Freelancer,22,W@H,1355380
 Rumbidzai Chimedza,22656,"Chimedza, Rumbidzai",Rumbidzai,Chimedza,GQ ENG,"Warsaw, PL",Rafa³ Rogowski,ENG,Freelancer,22,W@H,
 Tanaka Chinembiri,23190,"Chinembiri, Tanaka",Tanaka,Chinembiri,GQ ENG,"Warsaw, PL",Rafa³ Rogowski,ENG,Freelancer,21,B&M,
 Venesa Chinhondo,23764,"Chinhondo, Venesa",Venesa,Chinhondo,GQ ENG,"Warsaw, PL",Anna Sabbatini,ENG,Contract,#N/A,#N/A,1381582
 Tinashe Chitaka,26638,"Chitaka, Tinashe",,,GQ ENG,"Gdansk, PL",Marzena Nowak,ENG,Freelancer,21,W@H,1401743
+Ulduza Chitaka,X,"Chitaka, Ulduza",Ulduza,Chitaka,GQ ENG,"Gdansk, PL",0,ENG,Freelancer,21,B&M,0
 UMULISA CHRISTABELLE,26658,"CHRISTABELLE, UMULISA",UMULISA,CHRISTABELLE,UK/FR,"Warsaw, PL",Mi³ka Szuster,FR/ENG,Freelancer,32,W@H,
 Umulisa Christabelle,26658,"Christabelle, Umulisa",,,UK/FR,"Warsaw, PL",Mi³ka Szuster,FR/ENG,Freelancer,32,W@H,
 Ihuoma Chukwu,14532,"Chukwu, Ihuoma",Ihuoma,Chukwu,RTL,"Warsaw, PL",Belinda Mutsakanyi,ENG,Freelancer,22,W@H,0
@@ -79,190 +94,244 @@ Ridhi Dadhich,25176,"Dadhich, Ridhi",Ridhi,Dadhich,GQ ENG,"Warsaw, PL",Fadzisai 
 Christine de Thierry,22794,"de Thierry, Christine",Christine,de Thierry,AU GQ,Auckland,#N/A,ENG,Contract,#N/A,#N/A,#N/A
 Gakumba Deborah,25181,"Deborah, Gakumba",Gakumba,Deborah,UK/FR,"Warsaw, PL",Mi³ka Szuster,FR/ENG,Contract,#N/A,#N/A,
 Haymanot Demilew,21580,"Demilew, Haymanot",Haymanot,Demilew,GQ ENG,"Gdansk, PL",Justyna Klimek,ENG,Freelancer,21,W@H,1368080
+Zerea Demissie,X,"Demissie, Zerea",Zerea,Demissie,SAS POS,"Warsaw, PL",Ricardo Vargas,L2,Freelancer,26,W@H,1277329
 Michael Dennis,20327,"Dennis, Michael",Michael,Dennis,GQ ENG,"Warsaw, PL",Anna Sabbatini,ENG,Freelancer,23,W@H,993830
+Hannah Derbie,X,"Derbie, Hannah",Hannah,Derbie,GQ ENG,"Warsaw, PL",Khurshed Gulbekov,ENG,Freelancer,21,W@H,0
+Nouhoum Diarra,X,"Diarra, Nouhoum",Nouhoum,Diarra,CAD FR,"Warsaw, PL",Mi³ka Szuster,FR/ENG,Freelancer,29,W@H,0
 Mebea Difabachew,25831,"Difabachew, Mebea",Mebea,Difabachew,GQ ENG,"Warsaw, PL",Khurshed Gulbekov,ENG,Freelancer,22,W@H,
-Eshwet Dube,17970,"Dube, Eshwet",Eshwet,Dube,RST,"Warsaw, PL",Victoria Yurkina,ENG,Contract,21,W@H,
+Teta Doreen,X,"Doreen, Teta",Teta,Doreen,GQ ENG,"Warsaw, PL",Edward Nakula,ENG,Freelancer,21,W@H,0
+Eshwet Dube,17970,"Dube, Eshwet",Eshwet,Dube,RST,"Warsaw, PL",Fadzisai Chinyamakobvu,ENG,Contract,21,W@H,
 Lee-Roy Dube,22662,"Dube, Lee-Roy",Lee-Roy,Dube,GQ ENG,"Warsaw, PL",Fadzisai Chinyamakobvu,ENG,Contract,22,W@H,
 Nobukhosi Dube,24494,"Dube, Nobukhosi",Nobukhosi,Dube,GQ ENG,"Warsaw, PL",Marek Pucu³ek,ENG,Freelancer,21,#N/A,
 Panashe Dube,21151,"Dube, Panashe",Panashe,Dube,GQ ENG,"Warsaw, PL",Edward Nakula,ENG,Freelancer,21,W@H,
 Ilya Dushenko,14525,"Dushenko, Ilya",Ilya,Dushenko,PQ OVN,"Warsaw, PL",Iwona Koszel,ENG,Freelancer,22,W@H,1277872
-Alice Dzenge,17958,"Dzenge, Alice",Alice,Dzenge,Email,"Warsaw, PL",Nodir Solijonov,ENG,Freelancer,22,W@H,1328906
+Alice Dzenge,17958,"Dzenge, Alice",Alice,Dzenge,Sitel Email,"Warsaw, PL",Nodir Solijonov,ENG,Freelancer,22,W@H,1328906
 Devika Elayidath,22659,"Elayidath, Devika",Devika,Elayidath,GQ ENG,"Warsaw, PL",Iwona Koszel,ENG,Freelancer,21,W@H,
-Hameim ELMaghbub,25495,"ELMaghbub, Hameim",Hameim,ELMaghbub,GQ,"Gdansk, PL",#N/A,ENG,Freelancer,#N/A,#N/A,#N/A
+Collin Elingaya,X,"Elingaya, Collin",Collin,Elingaya,OVN,"Warsaw, PL",Vishnu Balakrishnan,ENG,Freelancer,22,W@H,0
+Hameim ELMaghbub,25495,"ELMaghbub, Hameim",Hameim,ELMaghbub,GQ ENG,"Gdansk, PL",#N/A,ENG,Freelancer,#N/A,#N/A,#N/A
 Achraf Elmouden,23186,"Elmouden, Achraf",Achraf,Elmouden,FR GQ,"Warsaw, PL",Mi³ka Szuster,FR/ENG,Freelancer,21,W@H,0
 Adrienne Emgoue,21848,"Emgoue, Adrienne",Adrienne,Emgoue,GQ FRENCH,"Warsaw, PL",Paul Skora,FR/ENG,Contract,#N/A,#N/A,1370968
 Teta Endi,24358,"Endi, Teta",Teta,Endi,GQ ENG,"Gdansk, PL",Klaudia Gutowska,ENG,Freelancer,21,B&M,1383921
+Chijioke Erua,X,"Erua, Chijioke",Chijioke,Erua,GQ ENG,"Warsaw, PL",Wojciech Walkiewicz,ENG,Freelancer,21,B&M,0
 Asubaja Esohe,25164,"Esohe, Asubaja",Asubaja,Esohe,GQ ENG,"Warsaw, PL",Belinda Mutsakanyi,ENG,Freelancer,21,W@H,
+Abessolo Esther,X,"Esther, Abessolo",Abessolo,Esther,GQ ENG,"Warsaw, PL",Wojciech Walkiewicz,ENG,Freelancer,21,W@H,0
 Joseph Eze,24506,"Eze, Joseph",Joseph,Eze,GQ ENG,"Warsaw, PL",Marek Pucu³ek,ENG,Contract,#N/A,#N/A,
 Nnamdi Eze,26649,"Eze, Nnamdi",Nnamdi,Eze,GQ ENG,"Warsaw, PL",Fadzisai Chinyamakobvu,ENG,Freelancer,22,W@H,
 Valentine Ezennaka,25823,"Ezennaka, Valentine",Valentine,Ezennaka,GQ ENG,"Warsaw, PL",Nontobeko Linda Moyo,ENG,Freelancer,21,W@H,1395519
 Helen Familoni,25823,"Familoni, Helen",Helen,Familoni,GQ ENG,"Warsaw, PL",Nontobeko Linda Moyo,ENG,Freelancer,21,W@H,1395519
-Helen Familoni,25157,"Familoni, Helen",Helen,Familoni,GQ,"Warsaw, PL",Belinda Mutsakanyi,ENG,Freelancer,21,W@H,0
+Helen Familoni,25157,"Familoni, Helen",Helen,Familoni,GQ ENG,"Warsaw, PL",Belinda Mutsakanyi,ENG,Freelancer,21,W@H,0
 Khan Farisha,25143,"Farisha, Khan",Khan,Farisha,AU GQ,Auckland,#N/A,ENG,Contract,#N/A,#N/A,#N/A
 Peter Fassan,21844,"Fassan, Peter",Peter,Fassan,GQ ENG,"Warsaw, PL",Edward Nakula,ENG,Freelancer,21,W@H,1368453
-Biruk Fekade,19939,"Fekade, Biruk",Biruk,Fekade,EMAIL,"Warsaw, PL",Nodir Solijonov,ENG,Freelancer,22,W@H,1343473
-Christina Feleke,19943,"Feleke, Christina",Christina,Feleke,Email,"Warsaw, PL",Nodir Solijonov,ENG,Freelancer,21,W@H,1343309
+Biruk Fekade,19939,"Fekade, Biruk",Biruk,Fekade,Sitel Email,"Warsaw, PL",Nodir Solijonov,ENG,Freelancer,22,W@H,1343473
+Christina Feleke,19943,"Feleke, Christina",Christina,Feleke,Sitel Email,"Warsaw, PL",Nodir Solijonov,ENG,Freelancer,21,W@H,1343309
 Witharanage Fernando,25171,"Fernando, Witharanage",Witharanage,Fernando,GQ ENG,"Warsaw, PL",Iwona Koszel,ENG,Freelancer,22,W@H,
-Klaudyna Filipkowska,25837,"Filipkowska, Klaudyna",Klaudyna,Filipkowska,GQ,"Gdansk, PL",0,ES/ENG,Freelancer,21,W@H,0
+Klaudyna Filipkowska,25837,"Filipkowska, Klaudyna",Klaudyna,Filipkowska,GQ ENG,"Gdansk, PL",0,ES/ENG,Freelancer,21,W@H,0
+Oluwaseun Fimusanmi,X,"Fimusanmi, Oluwaseun",Oluwaseun,Fimusanmi,GQ ENG,"Warsaw, PL",Marek Puculek,ENG,Freelancer,21,W@H,0
 Umulisa Fiona,21162,"Fiona, Umulisa",Umulisa,Fiona,CAD FR,"Warsaw, PL",Paul Skora,FR/ENG,Freelancer,28,W@H,
 Helen Fisseha,25494,"Fisseha, Helen",Helen,Fisseha,GQ ENG,"Gdansk, PL",Marzena Nowak,ENG,Freelancer,#N/A,#N/A,1393579
+Ivy Fisseha,X,"Fisseha, Ivy",Ivy,Fisseha,GQ ENG,"Gdansk, PL",Marzena Nowak,ENG,Freelancer,21,B&M,1393579
+Emgoue Fleurielle,X,"Fleurielle, Emgoue",Emgoue,Fleurielle,GQ FRENCH,"Warsaw, PL",Mi³ka Szuster,ENG,Freelancer,28,W@H,0
 Mickel Foxx,25827,"Foxx, Mickel",Mickel,Foxx,GQ ENG,"Warsaw, PL",Khurshed Gulbekov,ENG,Freelancer,22,W@H,
-Igihozo Francky,26659,"Francky, Igihozo",,,GQ,"Warsaw, PL",Mi³ka Szuster,ENG,Freelancer,21,W@H,0
-Lucas Froeliger,23497,"Froeliger, Lucas",Lucas,Froeliger,UK/FR,"Warsaw, PL",Mi³ka Szuster,FR/ENG,Contract,32,W@H,1380459
+IGIHOZO FRANCKY,X,"FRANCKY, IGIHOZO",IGIHOZO,FRANCKY,GQ ENG,"Warsaw, PL",Mi³ka Szuster,FR/ENG,Freelancer,21,W@H,0
+Igihozo Francky,26659,"Francky, Igihozo",,,GQ ENG,"Warsaw, PL",Mi³ka Szuster,ENG,Freelancer,21,W@H,0
+Lucas Froeliger,23497,"Froeliger, Lucas",Lucas,Froeliger,UK/FR,"Gdansk, PL",Mi³ka Szuster,FR/ENG,Contract,32,W@H,1380459
 Chelsea Gabriela Leveille,21849,"Gabriela Leveille, Chelsea",Chelsea,Gabriela Leveille,GQ FRENCH,"Warsaw, PL",Paul Skora,FR/ENG,Contract,#N/A,#N/A,1370973
 Bridget Gakii,24503,"Gakii, Bridget",Bridget,Gakii,GQ ENG,"Warsaw, PL",Marek Pucu³ek,ENG,Freelancer,#N/A,#N/A,
 Sophia Gaoa,22797,"Gaoa, Sophia",Sophia,Gaoa,AU GQ,Auckland,#N/A,ENG,Contract,#N/A,#N/A,#N/A
+Yididya Gebeyew,X,"Gebeyew, Yididya",Yididya,Gebeyew,SAS POS,"Warsaw, PL",Ricardo Vargas,ENG,Freelancer,26,W@H,1277331
 Ezana Gebre,16397,"Gebre, Ezana",Ezana,Gebre,PQ OVN,"Warsaw, PL",Jemal Babayeva,ENG,Freelancer,23,W@H,1313946
-Tsion Gebremehdin,25500,"Gebremehdin, Tsion",Tsion,Gebremehdin,GQ,"Gdansk, PL",#N/A,ENG,Freelancer,#N/A,#N/A,#N/A
+Tsion Gebremehdin,25500,"Gebremehdin, Tsion",Tsion,Gebremehdin,GQ ENG,"Gdansk, PL",#N/A,ENG,Freelancer,#N/A,#N/A,#N/A
 Betelhem Gelaw,21829,"Gelaw, Betelhem",Betelhem,Gelaw,GQ ENG,"Warsaw, PL",Edward Nakula,ENG,Freelancer,28,W@H,1368415
 Kaleab Gerresilassie,25501,"Gerresilassie, Kaleab",Kaleab,Gerresilassie,GQ ENG,"Gdansk, PL",Marzena Nowak,ENG,Contract,#N/A,#N/A,1393603
+Mahder Gerresilassie,X,"Gerresilassie, Mahder",Mahder,Gerresilassie,GQ ENG,"Gdansk, PL",Marzena Nowak,ENG,Freelancer,21,B&M,1393603
 Mahder Gete,25496,"Gete, Mahder",Mahder,Gete,GQ ENG,"Gdansk, PL",£ukasz Cierpiñski,ENG,Freelancer,22,#N/A,1393595
 Mekuria Girma,25178,"Girma, Mekuria",Mekuria,Girma,GQ ENG,"Warsaw, PL",Khurshed Gulbekov,ENG,Freelancer,22,#N/A,
-Samet Guler,19955,"Guler, Samet",Samet,Guler,GQ,"Warsaw, PL",Rafal Rogowski,ENG,Freelancer,21,W@H,0
+Samet Guler,19955,"Guler, Samet",Samet,Guler,GQ ENG,"Warsaw, PL",Rafal Rogowski,ENG,Freelancer,21,W@H,0
 Elvin Guliev,24502,"Guliev, Elvin",Elvin,Guliev,GQ ENG,"Warsaw, PL",Marek Pucu³ek,ENG,Freelancer,#N/A,#N/A,
 Tatenda Gumbi,21845,"Gumbi, Tatenda",Tatenda,Gumbi,GQ ENG,"Warsaw, PL",Iwona Koszel,ENG,Freelancer,22,W@H,1368455
 Joyce Gwata,23750,"Gwata, Joyce",Joyce,Gwata,GQ ENG,"Warsaw, PL",Edward Nakula,ENG,Freelancer,21,W@H,
-John Habonimana,23182,"Habonimana, John",John,Habonimana,GQ FRENCH,"Warsaw, PL",Khurshed Gulbekov,FR/ENG,Freelancer,21,B&M,
-Sayed Hadi,23761,"Hadi, Sayed",Sayed,Hadi,GQ,"Warsaw, PL",Victoria Yurkina,ENG,Freelancer,#N/A,#N/A,#N/A
-Anar Hajizada,20315,"Hajizada, Anar",Anar,Hajizada,GQ,"Warsaw, PL",Khurshed Gulbekov,ENG,Freelancer,21,W@H,0
+John Habonimana,23182,"Habonimana, John",John,Habonimana,RISK,"Warsaw, PL",Mi³ka Szuster,FR/ENG,Freelancer,21,B&M,
+Sayed Hadi,23761,"Hadi, Sayed",Sayed,Hadi,GQ ENG,"Warsaw, PL",Victoria Yurkina,ENG,Freelancer,#N/A,#N/A,#N/A
+Natnael Haile,X,"Haile, Natnael",Natnael,Haile,GQ ENG,"Gdansk, PL",0,ENG,Freelancer,21,B&M,0
+Anar Hajizada,20315,"Hajizada, Anar",Anar,Hajizada,GQ ENG,"Warsaw, PL",Khurshed Gulbekov,ENG,Freelancer,21,W@H,0
 Uwimana Henry,22674,"Henry, Uwimana",Uwimana,Henry,CAD FR,"Warsaw, PL",Paul Skora,FR/ENG,Freelancer,#N/A,#N/A,
+Ngonidzashe Horonga,X,"Horonga, Ngonidzashe",Ngonidzashe,Horonga,GQ ENG,"Warsaw, PL",Nontobeko Moyo,ENG,Freelancer,22,W@H,1343177
 Sean Horonga,19949,"Horonga, Sean",Sean,Horonga,GQ ENG,"Warsaw, PL",Nontobeko Linda Moyo,ENG,Contract,#N/A,#N/A,1343177
 Danil Hunin,24903,"Hunin, Danil",Danil,Hunin,GQ ENG,"Gdansk, PL",£ukasz Cierpiñski,ENG,Freelancer,21,B&M,1389514
+Tolulope Ifaturoti,X,"Ifaturoti, Tolulope",Tolulope,Ifaturoti,RTL,"Warsaw, PL",Belinda Mutsakanyi,ENG,Contract,21,W@H,0
 Ange Igiraneza,21851,"Igiraneza, Ange",Ange,Igiraneza,UK/FR,"Warsaw, PL",Mi³ka Szuster,FR/ENG,Freelancer,28,B&M,
-Samuel Ikem,21587,"Ikem, Samuel",Samuel,Ikem,GQ,"Gdansk, PL",Dawid Czaplak,ENG,Freelancer,21,W@H,5
+Benjamin Ikem,X,"Ikem, Benjamin",Benjamin,Ikem,GQ ENG,"Gdansk, PL",Dawid Czaplak,ENG,Freelancer,21,W@H,1380450
+Samuel Ikem,21587,"Ikem, Samuel",Samuel,Ikem,GQ ENG,"Gdansk, PL",Dawid Czaplak,ENG,Freelancer,21,W@H,5
 Arthur Ikogwe,25169,"Ikogwe, Arthur",Arthur,Ikogwe,GQ ENG,"Warsaw, PL",Anna Sabbatini,ENG,Contract,#N/A,#N/A,1390732
-Sandrine Inema,21603,"Inema, Sandrine",Sandrine,Inema,GQ,"Gdansk, PL",Agata Mielewczyk,ENG,Freelancer,22,W@H,1368798
+Sandrine Inema,21603,"Inema, Sandrine",Sandrine,Inema,GQ ENG,"Gdansk, PL",Agata Mielewczyk,ENG,Freelancer,22,W@H,1368798
 Solange Ingabire,17402,"Ingabire, Solange",Solange,Ingabire,CAD FR,"Warsaw, PL",Paul Skora,FR/ENG,Contract,31,W@H,1323299
-Jesam Inyang,25819,"Inyang, Jesam",Jesam,Inyang,GQ,"Warsaw, PL",Iwona Koszel,ENG,Freelancer,22,W@H,
+Jesam Inyang,25819,"Inyang, Jesam",Jesam,Inyang,GQ ENG,"Warsaw, PL",Iwona Koszel,ENG,Freelancer,22,W@H,
 Eteuati Irae,25141,"Irae, Eteuati",Eteuati,Irae,AU GQ,Auckland,#N/A,ENG,Contract,#N/A,#N/A,#N/A
 Maurelle Irankunda,21850,"Irankunda, Maurelle",Maurelle,Irankunda,FR GQ,"Warsaw, PL",Mi³ka Szuster,FR/ENG,Contract,32,W@H,1370992
-Kindness Irekpita,20323,"Irekpita, Kindness",Kindness,Irekpita,GQ,"Warsaw, PL",Khurshed Gulbekov,ENG,Contract,21,W@H,0
+Kindness Irekpita,20323,"Irekpita, Kindness",Kindness,Irekpita,GQ ENG,"Warsaw, PL",Khurshed Gulbekov,ENG,Contract,21,W@H,0
 Kessy Iriza,17974,"Iriza, Kessy",Kessy,Iriza,UK/FR,"Warsaw, PL",Mi³ka Szuster,FR/ENG,Freelancer,28,W@H,1328691
-Aysu Isayeva,21598,"Isayeva, Aysu",Aysu,Isayeva,GQ,"Gdansk, PL",Dawid Czaplak,ENG,Freelancer,21,W@H,21
-Alice Ishimwe,22678,"Ishimwe, Alice",Alice,Ishimwe,GQ,"Warsaw, PL",Paul Skora,FR/ENG,Freelancer,32,W@H,1374577
+Aysu Isayeva,21598,"Isayeva, Aysu",Aysu,Isayeva,GQ ENG,"Gdansk, PL",Dawid Czaplak,ENG,Freelancer,21,W@H,21
+Alice Ishimwe,22678,"Ishimwe, Alice",Alice,Ishimwe,GQ ENG,"Warsaw, PL",Paul Skora,FR/ENG,Freelancer,32,W@H,1374577
 Nijat Ismayilzada,25174,"Ismayilzada, Nijat",Nijat,Ismayilzada,GQ ENG,"Warsaw, PL",Rafa³ Rogowski,ENG,Freelancer,22,#N/A,
 Munezero Ivana,17979,"Ivana, Munezero",Munezero,Ivana,UK/FR,"Warsaw, PL",Mi³ka Szuster,FR/ENG,Freelancer,28,W@H,1328689
+mohammad jahangir,X,"jahangir, mohammad",mohammad,jahangir,GQ ENG,"Warsaw, PL",#N/A,ENG,Contract,#N/A,#N/A,#N/A
 Manthan Jani,17977,"Jani, Manthan",Manthan,Jani,RST,"Warsaw, PL",Victoria Yurkina,ENG,Freelancer,23,W@H,1231083
 Elham Jemal,21831,"Jemal, Elham",Elham,Jemal,GQ ENG,"Warsaw, PL",Edward Nakula,ENG,Freelancer,21,W@H,1368417
-Albertina Kalonje,17957,"Kalonje, Albertina",Albertina,Kalonje,RTL,"Warsaw, PL",Jemal Babayeva,ENG,Freelancer,23,W@H,1328904
-Favour Kalu,20319,"Kalu, Favour",Favour,Kalu,EMAIL,"Warsaw, PL",Nodir Solijonov,ENG,Freelancer,22,W@H,1347956
-Bruce Kanwitonze,26662,"Kanwitonze, Bruce",Bruce,Kanwitonze,GQ,"Warsaw, PL",Mi³ka Szuster,FR/ENG,Freelancer,21,W@H,0
-Paidamoyo Kaondera,15209,"Kaondera, Paidamoyo",Paidamoyo,Kaondera,EMAIL,"Warsaw, PL",Nodir Solijonov,ENG,Freelancer,22,W@H,1288078
+Jean kageruka,X,"kageruka, Jean",Jean,kageruka,GQ ENG,"Gdansk, PL",0,ENG,Freelancer,21,B&M,0
+Albertina Kalonje,17957,"Kalonje, Albertina",Albertina,Kalonje,PQ OVN,"Warsaw, PL",Jemal Babayeva,ENG,Freelancer,23,W@H,1328904
+Favour Kalu,20319,"Kalu, Favour",Favour,Kalu,Sitel Email,"Warsaw, PL",Nodir Solijonov,ENG,Freelancer,22,W@H,1347956
+Mahmoud KANAMUGIRE,X,"KANAMUGIRE, Mahmoud",Mahmoud,KANAMUGIRE,GQ ENG,"Gdansk, PL",0,ENG,Freelancer,21,B&M,0
+Bruce Kanwitonze,26662,"Kanwitonze, Bruce",Bruce,Kanwitonze,GQ ENG,"Warsaw, PL",Mi³ka Szuster,FR/ENG,Freelancer,21,W@H,0
+Natasha Kanyekanye,X,"Kanyekanye, Natasha",Natasha,Kanyekanye,GQ ENG,"Warsaw, PL",Khurshed Gulbekov,ENG,Freelancer,21,W@H,0
+Paidamoyo Kaondera,15209,"Kaondera, Paidamoyo",Paidamoyo,Kaondera,Sitel Email,"Warsaw, PL",Nodir Solijonov,ENG,Freelancer,22,W@H,1288078
 Uwase Karangwa Lilian,21854,"Karangwa Lilian, Uwase",Uwase,Karangwa Lilian,FR GQ,"Warsaw, PL",Mi³ka Szuster,FR/ENG,Freelancer,#N/A,#N/A,#N/A
 Azamat Karymsakov,14527,"Karymsakov, Azamat",Azamat,Karymsakov,OVN,"Warsaw, PL",Iwona Koszel,ENG,Contract,#N/A,#N/A,#N/A
-Hazvineyi Kaseke,19945,"Kaseke, Hazvineyi",Hazvineyi,Kaseke,EMAIL,"Warsaw, PL",Nodir Solijonov,ENG,Freelancer,22,W@H,1343186
+Hazvineyi Kaseke,19945,"Kaseke, Hazvineyi",Hazvineyi,Kaseke,Sitel Email,"Warsaw, PL",Nodir Solijonov,ENG,Freelancer,22,W@H,1343186
 Ronald Kaseke,19954,"Kaseke, Ronald",Ronald,Kaseke,GQ ENG,"Warsaw, PL",Nontobeko Linda Moyo,ENG,Freelancer,23,W@H,1343164
 Zhibek Kashkaeva,24505,"Kashkaeva, Zhibek",Zhibek,Kashkaeva,GQ ENG,"Warsaw, PL",Marek Pucu³ek,ENG,Freelancer,21,#N/A,
-Ruth Kassa,21153,"Kassa, Ruth",Ruth,Kassa,GQ,"Warsaw, PL",Nontobeko Moyo,ENG,Freelancer,22,W@H,1358249
+Dagmawi Kassa,X,"Kassa, Dagmawi",Dagmawi,Kassa,GQ ENG,"Gdansk, PL",#N/A,ENG,Contract,#N/A,#N/A,#N/A
+Ruth Kassa,21153,"Kassa, Ruth",Ruth,Kassa,GQ ENG,"Warsaw, PL",Nontobeko Moyo,ENG,Freelancer,22,W@H,1358249
 Karen Kativu,17973,"Kativu, Karen",Karen,Kativu,PQ OVN,"Warsaw, PL",Belinda Mutsakanyi,ENG,Freelancer,21,W@H,1328946
 Loreen Kawadza,19947,"Kawadza, Loreen",Loreen,Kawadza,GQ ENG,"Warsaw, PL",Anna Sabbatini,ENG,Freelancer,22,W@H,1342197
 Hugues Kayabo,21847,"Kayabo, Hugues",Hugues,Kayabo,GQ FRENCH,"Warsaw, PL",Paul Skora,FR/ENG,Freelancer,21,W@H,1373035
 Tanguy Kaze,22673,"Kaze, Tanguy",Tanguy,Kaze,RISK,"Warsaw, PL",Mi³ka Szuster,FR/ENG,Freelancer,28,W@H,
 Bamlack Kebede,20316,"Kebede, Bamlack",Bamlack,Kebede,GQ ENG,"Warsaw, PL",Anna Sabbatini,ENG,Freelancer,22,W@H,1346985
-Nigusu Kebede,19944,"Kebede, Nigusu",Nigusu,Kebede,GQ ENG,"Warsaw, PL",Anna Sabbatini,ENG,Contract,#N/A,#N/A,1343316
+Eyosiyas Kebede,X,"Kebede, Eyosiyas",Eyosiyas,Kebede,GQ ENG,"Warsaw, PL",Anna Sabbatini,ENG,Freelancer,22,W@H,1343316
+Nigusu Kebede,19944,"Kebede, Nigusu",Nigusu,Kebede,RST,"Warsaw, PL",Anna Sabbatini,ENG,Contract,#N/A,#N/A,1343316
+Ekram Kedir,X,"Kedir, Ekram",Ekram,Kedir,SAS POS,"Warsaw, PL",Ricardo Vargas,ENG,Freelancer,26,W@H,1314810
 Sinzihara KEVINE,25815,"KEVINE, Sinzihara",Sinzihara,KEVINE,GQ ENG,"Warsaw, PL",Nontobeko Linda Moyo,ENG,Freelancer,21,W@H,1395568
 ibrahim Khalifa,27253,"Khalifa, ibrahim",,,GQ ENG,"Gdansk, PL",£ukasz Cierpiñski,ENG,Freelancer,21,W@H,1404847
 Zham Khalilov,15199,"Khalilov, Zham",Zham,Khalilov,SAS POS,"Warsaw, PL",Ricardo Vargas,L2,Freelancer,26,W@H,0
-Victoria Khritonenko,26632,"Khritonenko, Victoria",,,GQ,"Gdansk, PL",0,ENG,Freelancer,21,W@H,0
-Tafaranashe Kodhwata,22962,"Kodhwata, Tafaranashe",Tafaranashe,Kodhwata,GQ,"Gdansk, PL",Marzena Nowak,ENG,Freelancer,21,B&M,1376888
+Victoria Khritonenko,26632,"Khritonenko, Victoria",,,GQ ENG,"Gdansk, PL",0,ENG,Freelancer,21,W@H,0
+Joywhitney Kinoti,X,"Kinoti, Joywhitney",Joywhitney,Kinoti,GQ ENG,"Gdansk, PL",#N/A,ENG,Contract,#N/A,#N/A,#N/A
+Tafaranashe Kodhwata,22962,"Kodhwata, Tafaranashe",Tafaranashe,Kodhwata,GQ ENG,"Gdansk, PL",Marzena Nowak,ENG,Freelancer,21,B&M,1376888
 Bridgit Kodohu,22667,"Kodohu, Bridgit",Bridgit,Kodohu,GQ ENG,"Warsaw, PL",Iwona Koszel,ENG,Freelancer,21,W@H,
-Monika KopaÅ„ska,26668,"KopaÅ„ska, Monika",,,GQ,"Warsaw, PL",Rafal Rogowski,ES/ENG,Freelancer,21,W@H,0
+Leonard Komando,X,"Komando, Leonard",Leonard,Komando,GQ ENG,"Gdansk, PL",#N/A,ENG,Contract,#N/A,#N/A,#N/A
+Monika KopaÅ„ska,26668,"KopaÅ„ska, Monika",,,GQ ENG,"Warsaw, PL",Rafal Rogowski,ES/ENG,Freelancer,21,W@H,0
 Fezile Kopotsha,21600,"Kopotsha, Fezile",Fezile,Kopotsha,GQ ENG,"Gdansk, PL",Agata Mielewczyk,ENG,Freelancer,23,W@H,1368405
 Takudzwa Korofati,16416,"Korofati, Takudzwa",Takudzwa,Korofati,RST,"Warsaw, PL",Victoria Yurkina,ENG,Freelancer,22,W@H,0
-Georgy Krasavin,23747,"Krasavin, Georgy",Georgy,Krasavin,GQ ENG,"Warsaw, PL",Belinda Mutsakanyi,ENG,Freelancer,21,W@H,
+Georgy Krasavin,23747,"Krasavin, Georgy",Georgy,Krasavin,RTL,"Warsaw, PL",Belinda Mutsakanyi,ENG,Freelancer,21,W@H,
 Athul Krishna,26650,"Krishna, Athul",,,GQ ENG,"Warsaw, PL",Edward Nakula,ENG,Freelancer,21,W@H,
 Lynmary Kuchinani,23753,"Kuchinani, Lynmary",Lynmary,Kuchinani,GQ ENG,"Warsaw, PL",Jemal Babayeva,ENG,Freelancer,#N/A,#N/A,
-Naomi Kunda,22671,"Kunda, Naomi",Naomi,Kunda,GQ,"Warsaw, PL",Anna Sabbatini,ENG,Freelancer,21,W@H,0
+Panashe Kumbula,X,"Kumbula, Panashe",Panashe,Kumbula,GQ ENG,"Warsaw, PL",#N/A,ENG,Contract,#N/A,#N/A,#N/A
+Naomi Kunda,22671,"Kunda, Naomi",Naomi,Kunda,GQ ENG,"Warsaw, PL",Anna Sabbatini,ENG,Freelancer,21,W@H,0
 Pius Kurama,25380,"Kurama, Pius",Pius,Kurama,GQ ENG,"Warsaw, PL",Rafa³ Rogowski,ENG,Freelancer,22,#N/A,
+Melisa Kwenje,X,"Kwenje, Melisa",Melisa,Kwenje,GQ ENG,"Warsaw, PL",Anna Sabbatini,ENG,Contract,22,W@H,1343481
 Melisa Michelle Kwenje,19948,"Kwenje, Melisa Michelle",Melisa Michelle,Kwenje,GQ ENG,"Warsaw, PL",Anna Sabbatini,ENG,Contract,#N/A,#N/A,1343481
-Leon Kwizera,23495,"Kwizera, Leon",Leon,Kwizera,UK/FR,"Gdansk, PL",Dawid Czaplak,FR/ENG,Freelancer,21,W@H,1380445
+Leon Kwizera,23495,"Kwizera, Leon",Leon,Kwizera,UK/FR,"Gdansk, PL",Mi³ka Szuster,FR/ENG,Freelancer,21,W@H,1380445
+Fabliha Lamisa,X,"Lamisa, Fabliha",Fabliha,Lamisa,OVN,"Warsaw, PL",Iwona Koszel,ENG,Contract,22,W@H,0
 Michal Lapko,20973,"Lapko, Michal",Michal,Lapko,GQ ENG,"Gdansk, PL",Klaudia Gutowska,ENG,Freelancer,21,W@H,1355390
 Faya Lata,25158,"Lata, Faya",Faya,Lata,GQ ENG,"Warsaw, PL",Edward Nakula,ENG,Freelancer,22,#N/A,
 Nathan Lembo Tonodele,21853,"Lembo Tonodele, Nathan",Nathan,Lembo Tonodele,GQ FRENCH,"Warsaw, PL",Paul Skora,FR/ENG,Contract,#N/A,#N/A,1371005
 Dagmawi Lemma,25162,"Lemma, Dagmawi",Dagmawi,Lemma,GQ ENG,"Warsaw, PL",Jemal Babayeva,ENG,Freelancer,#N/A,#N/A,
 Yonas Lemma,20337,"Lemma, Yonas",Yonas,Lemma,GQ ENG,"Warsaw, PL",Rafa³ Rogowski,ENG,Freelancer,22,W@H,1230257
 Chelsea Leveille,21849,"Leveille, Chelsea",Chelsea,Leveille,GQ FRENCH,"Warsaw, PL",Paul Skora,FR/ENG,Freelancer,28,W@H,1370973
+Uwase Lilian,X,"Lilian, Uwase",Uwase,Lilian,UK/FR,"Warsaw, PL",Mi³ka Szuster,FR/ENG,Freelancer,21,W@H,0
 Hoani Lorraine,25142,"Lorraine, Hoani",Hoani,Lorraine,AU GQ,Auckland,#N/A,ENG,Contract,#N/A,#N/A,#N/A
+Krzysztof £ukiewski,X,"£ukiewski, Krzysztof",Krzysztof,£ukiewski,GQ ENG,"Gdansk, PL",Aleksander Demiaszkiewicz,ENG,Freelancer,21,W@H,73
 Kaliza Lyna,21839,"Lyna, Kaliza",Kaliza,Lyna,GQ ENG,"Warsaw, PL",Jemal Babayeva,ENG,Freelancer,21,W@H,1368438
 Saviour Macauley,23493,"Macauley, Saviour",Saviour,Macauley,GQ ENG,"Gdansk, PL",Dawid Czaplak,ENG,Freelancer,22,W@H,1380448
-Aisha Machingauta,20314,"Machingauta, Aisha",Aisha,Machingauta,GQ,"Warsaw, PL",Khurshed Gulbekov,ENG,Freelancer,21,W@H,0
+Aisha Machingauta,20314,"Machingauta, Aisha",Aisha,Machingauta,GQ ENG,"Warsaw, PL",Khurshed Gulbekov,ENG,Freelancer,21,W@H,0
 Djath Macudo,17968,"Macudo, Djath",Djath,Macudo,RST,"Warsaw, PL",Fadzisai Chinyamakobvu,ENG,Freelancer,23,W@H,1328947
 Presley Madondo,15196,"Madondo, Presley",Presley,Madondo,Sitel Email,"Warsaw, PL",Ricardo Vargas,ENG,Contract,#N/A,#N/A,#N/A
-Suellen Mafumbika,26629,"Mafumbika, Suellen",,,GQ,"Gdansk, PL",0,ENG,Freelancer,21,W@H,0
+Suellen Mafumbika,26629,"Mafumbika, Suellen",,,GQ ENG,"Gdansk, PL",0,ENG,Freelancer,21,W@H,0
+Tanyaradzwa Mafumbika,X,"Mafumbika, Tanyaradzwa",Tanyaradzwa,Mafumbika,GQ ENG,"Gdansk, PL",0,ENG,Freelancer,21,B&M,0
 Russel Magweva,23208,"Magweva, Russel",Russel,Magweva,GQ ENG,"Warsaw, PL",Rafa³ Rogowski,ENG,Freelancer,21,B&M,
 Javidan Mahiyev,23196,"Mahiyev, Javidan",Javidan,Mahiyev,GQ ENG,"Warsaw, PL",Iwona Koszel,ENG,Freelancer,22,B&M,
+Emmanuel Makanjuola,X,"Makanjuola, Emmanuel",Emmanuel,Makanjuola,GQ ENG,"Warsaw, PL",Edward Nakula,ENG,Freelancer,28,W@H,0
 Tinotenda Makarichi,23191,"Makarichi, Tinotenda",Tinotenda,Makarichi,GQ ENG,"Warsaw, PL",Rafa³ Rogowski,ENG,Freelancer,21,B&M,
-Stive Malone,23185,"Malone, Stive",Stive,Malone,GQ,"Warsaw, PL",Iwona Koszel,ENG,Contract,#N/A,#N/A,#N/A
+Stive Malone,23185,"Malone, Stive",Stive,Malone,GQ ENG,"Warsaw, PL",Iwona Koszel,ENG,Contract,#N/A,#N/A,#N/A
 Mateusz Malyszko,20972,"Malyszko, Mateusz",Mateusz,Malyszko,GQ ENG,"Gdansk, PL",Agata Mielewczyk,ENG,Contract,21,W@H,1355404
-Francis Manjengwa,21147,"Manjengwa, Francis",Francis,Manjengwa,GQ ENG,"Warsaw, PL",Belinda Mutsakanyi,ENG,Freelancer,21,W@H,1358094
-Portia Manyeruke,26641,"Manyeruke, Portia",,,GQ,"Gdansk, PL",0,ENG,Freelancer,21,W@H,0
+Francis Manjengwa,21147,"Manjengwa, Francis",Francis,Manjengwa,RTL,"Warsaw, PL",Belinda Mutsakanyi,ENG,Freelancer,21,W@H,1358094
+Portia Manyeruke,26641,"Manyeruke, Portia",,,GQ ENG,"Gdansk, PL",0,ENG,Freelancer,21,W@H,0
+Samuel Manyeruke,X,"Manyeruke, Samuel",Samuel,Manyeruke,GQ ENG,"Gdansk, PL",0,ENG,Freelancer,21,B&M,0
 Kundai Manyumwa,23188,"Manyumwa, Kundai",Kundai,Manyumwa,GQ ENG,"Warsaw, PL",Nontobeko Linda Moyo,ENG,Freelancer,21,B&M,
-Bongani Maplanka,20963,"Maplanka, Bongani",Bongani,Maplanka,GQ ENG,"Gdansk, PL",Klaudia Gutowska,ENG,Freelancer,23,W@H,1356652
+Bongani Maplanka,20963,"Maplanka, Bongani",Bongani,Maplanka,RST,"Gdansk, PL",Klaudia Gutowska,ENG,Freelancer,23,W@H,1356652
 Takunda Mapuranga,25167,"Mapuranga, Takunda",Takunda,Mapuranga,GQ ENG,"Warsaw, PL",Iwona Koszel,ENG,Freelancer,#N/A,#N/A,
 Rakhmatjonov Mardonbek,19953,"Mardonbek, Rakhmatjonov",Rakhmatjonov,Mardonbek,GQ ENG,"Warsaw, PL",Nontobeko Linda Moyo,ENG,Freelancer,24,W@H,1343179
 Wendy Marecha,23488,"Marecha, Wendy",Wendy,Marecha,GQ ENG,"Gdansk, PL",Klaudia Gutowska,ENG,Freelancer,21,W@H,1380456
-Karel Martinez,25422,"Martinez, Karel",,,GQ,"Warsaw, PL",0,ENG,Freelancer,21,W@H,0
-Tinashe Mashababe,21160,"Mashababe, Tinashe",Tinashe,Mashababe,EMAIL,"Warsaw, PL",Nodir Solijonov,ENG,Freelancer,22,W@H,1358290
-Lieutenant Mashingaidze,25173,"Mashingaidze, Lieutenant",Lieutenant,Mashingaidze,GQ,"Warsaw, PL",Khurshed Gulbekov,ENG,Contract,22,#N/A,1390755
+Karel Martinez,25422,"Martinez, Karel",,,GQ ENG,"Warsaw, PL",0,ENG,Freelancer,21,W@H,0
+Farirai Maruta,X,"Maruta, Farirai",Farirai,Maruta,GQ ENG,"Warsaw, PL",Victoria Yurkina,ENG,Freelancer,21,B&M,0
+Tinashe Mashababe,21160,"Mashababe, Tinashe",Tinashe,Mashababe,Sitel Email,"Warsaw, PL",Nodir Solijonov,ENG,Freelancer,22,W@H,1358290
+Lieutenant Mashingaidze,25173,"Mashingaidze, Lieutenant",Lieutenant,Mashingaidze,GQ ENG,"Warsaw, PL",Khurshed Gulbekov,ENG,Contract,22,#N/A,1390755
 Chiedza Masiiwa,25161,"Masiiwa, Chiedza",Chiedza,Masiiwa,GQ ENG,"Warsaw, PL",Jemal Babayeva,ENG,Freelancer,22,#N/A,
+Michelle Masinga,X,"Masinga, Michelle",Michelle,Masinga,GQ ENG,"Warsaw, PL",Belinda Mutsakanyi,ENG,Freelancer,21,W@H,0
 Tatenda Masiri,22666,"Masiri, Tatenda",Tatenda,Masiri,GQ ENG,"Warsaw, PL",Edward Nakula,ENG,Freelancer,21,W@H,
 Millicent Masukume,23206,"Masukume, Millicent",Millicent,Masukume,GQ ENG,"Warsaw, PL",Jemal Babayeva,ENG,Freelancer,22,B&M,
+Tanaka Mataba,X,"Mataba, Tanaka",Tanaka,Mataba,GQ ENG,"Gdansk, PL",Justyna Klimek,ENG,Contract,21,W@H,51
 Florence Matambudzo,25168,"Matambudzo, Florence",Florence,Matambudzo,GQ ENG,"Warsaw, PL",Nontobeko Linda Moyo,ENG,Freelancer,22,#N/A,1390739
 Dorothy Mataranyika,26651,"Mataranyika, Dorothy",Dorothy,Mataranyika,GQ ENG,"Warsaw, PL",Jemal Babayeva,ENG,Freelancer,22,W@H,
 Hope Matarutse,23749,"Matarutse, Hope",Hope,Matarutse,GQ ENG,"Warsaw, PL",Edward Nakula,ENG,Freelancer,#N/A,#N/A,
+Celeste Mathe,X,"Mathe, Celeste",Celeste,Mathe,SAS POS,"Warsaw, PL",Ricardo Vargas,ENG,Freelancer,22,W@H,1343322
 Shanice Mathias,23762,"Mathias, Shanice",Shanice,Mathias,GQ ENG,"Warsaw, PL",Fadzisai Chinyamakobvu,ENG,Contract,22,#N/A,
 Miriam Matinde,16004,"Matinde, Miriam",Miriam,Matinde,RST,"Warsaw, PL",Victoria Yurkina,ENG,Freelancer,23,W@H,1216194
-Sibanisethu Matshologwana,23479,"Matshologwana, Sibanisethu",Sibanisethu,Matshologwana,GQ,"Gdansk, PL",Marzena Nowak,ENG,Freelancer,21,W@H,1380447
+Sibanisethu Matshologwana,23479,"Matshologwana, Sibanisethu",Sibanisethu,Matshologwana,GQ ENG,"Gdansk, PL",Marzena Nowak,ENG,Freelancer,21,W@H,1380447
+Aleksandra Mazurkiewicz,X,"Mazurkiewicz, Aleksandra",Aleksandra,Mazurkiewicz,GQ ENG,"Gdansk, PL",0,ENG,Freelancer,21,B&M,0
 Thomas McDermott,14524,"McDermott, Thomas",Thomas,McDermott,PQ OVN,"Warsaw, PL",Iwona Koszel,ENG,Freelancer,22,W@H,1277908
+Siham Mekonnen,X,"Mekonnen, Siham",Siham,Mekonnen,GQ ENG,"Warsaw, PL",Rafal Rogowski,ENG,Freelancer,21,B&M,0
+Solomon Meresa,X,"Meresa, Solomon",Solomon,Meresa,GQ ENG,"Warsaw, PL",Rafal Rogowski,ENG,Freelancer,21,W@H,0
 Fitsum Meshesha,24507,"Meshesha, Fitsum",Fitsum,Meshesha,GQ ENG,"Warsaw, PL",Marek Pucu³ek,ENG,Freelancer,21,#N/A,
-Sumbong Mesode,26661,"Mesode, Sumbong",,,GQ,"Warsaw, PL",0,ENG,Freelancer,21,W@H,0
+SUMBONG MESODE,X,"MESODE, SUMBONG",SUMBONG,MESODE,GQ ENG,"Warsaw, PL",0,FR/ENG,Freelancer,21,W@H,0
+Sumbong Mesode,26661,"Mesode, Sumbong",,,GQ ENG,"Warsaw, PL",0,ENG,Freelancer,21,W@H,0
 Kaleb Meta,21584,"Meta, Kaleb",Kaleb,Meta,GQ ENG,"Gdansk, PL",Dawid Czaplak,ENG,Freelancer,21,W@H,1368086
 Faith Mhondoro,22657,"Mhondoro, Faith",Faith,Mhondoro,GQ ENG,"Warsaw, PL",Khurshed Gulbekov,ENG,Freelancer,22,W@H,
 Marcia Mirami,16407,"Mirami, Marcia",Marcia,Mirami,RTL,"Warsaw, PL",Belinda Mutsakanyi,ENG,Freelancer,22,W@H,0
-Abimael Mohammed,22972,"Mohammed, Abimael",Abimael,Mohammed,GQ,"Gdansk, PL",Klaudia Gutowska,ENG,Contract,21,W@H,1376907
+Abimael Mohammed,22972,"Mohammed, Abimael",Abimael,Mohammed,GQ ENG,"Gdansk, PL",Klaudia Gutowska,ENG,Contract,21,W@H,1376907
 Kidist Molla,27256,"Molla, Kidist",,,GQ ENG,"Gdansk, PL",Klaudia Gutowska,ENG,Freelancer,21,W@H,1404875
-Clemence Momberume,15203,"Momberume, Clemence",Clemence,Momberume,EMAIL,"Warsaw, PL",Nodir Solijonov,ENG,Contract,23,W@H,1288048
-Marvens-Neerley Monestime,23184,"Monestime, Marvens-Neerley",Marvens-Neerley,Monestime,GQ,"Warsaw, PL",Nontobeko Moyo,ENG,Freelancer,32,B&M,1378111
+Clemence Momberume,15203,"Momberume, Clemence",Clemence,Momberume,Sitel Email,"Warsaw, PL",Nodir Solijonov,ENG,Contract,23,W@H,1288048
+Marvens-Neerley Monestime,23184,"Monestime, Marvens-Neerley",Marvens-Neerley,Monestime,GQ ENG,"Warsaw, PL",Nontobeko Moyo,ENG,Freelancer,32,B&M,1378111
 Martina Mosqueras,26665,"Mosqueras, Martina",Martina,Mosqueras,ES/UK,"Warsaw, PL",Rafa³ Rogowski,ES/ENG,Freelancer,21,W@H,
 Chipo Moyo,24511,"Moyo, Chipo",Chipo,Moyo,GQ ENG,"Warsaw, PL",Marek Pucu³ek,ENG,Freelancer,#N/A,#N/A,
 Mduduzi Moyo,25825,"Moyo, Mduduzi",Mduduzi,Moyo,GQ ENG,"Warsaw, PL",Jemal Babayeva,ENG,Freelancer,22,W@H,
 Nima Mozafar Moghaddam,16412,"Mozafar Moghaddam, Nima",Nima,Mozafar Moghaddam,RTL,"Warsaw, PL",#N/A,ENG,Contract,#N/A,#N/A,#N/A
+Daniella Mpofu,X,"Mpofu, Daniella",Daniella,Mpofu,GQ ENG,"Gdansk, PL",Justyna Klimek,ENG,Freelancer,21,W@H,66
 Greatjoy Mpofu,25170,"Mpofu, Greatjoy",Greatjoy,Mpofu,GQ ENG,"Warsaw, PL",Belinda Mutsakanyi,ENG,Freelancer,22,W@H,
 Vanessa Mrosso,20335,"Mrosso, Vanessa",Vanessa,Mrosso,GQ ENG,"Warsaw, PL",Jemal Babayeva,ENG,Freelancer,21,W@H,1347958
 Rosemary Mtatiro,23193,"Mtatiro, Rosemary",Rosemary,Mtatiro,GQ ENG,"Warsaw, PL",Rafa³ Rogowski,ENG,Freelancer,21,B&M,
 Victor Mtui,22655,"Mtui, Victor",Victor,Mtui,GQ ENG,"Warsaw, PL",Rafa³ Rogowski,ENG,Freelancer,21,W@H,
-Tanyaradzwa Mudyiradima,26636,"Mudyiradima, Tanyaradzwa",,,GQ,"Gdansk, PL",0,ENG,Freelancer,21,W@H,0
-Kudakwashe Mugwambi,25160,"Mugwambi, Kudakwashe",Kudakwashe,Mugwambi,GQ,"Warsaw, PL",Khurshed Gulbekov,ENG,Freelancer,21,W@H,0
+Tanyaradzwa Mudyiradima,26636,"Mudyiradima, Tanyaradzwa",,,GQ ENG,"Gdansk, PL",0,ENG,Freelancer,21,W@H,0
+Tinashe Mudyiradima,X,"Mudyiradima, Tinashe",Tinashe,Mudyiradima,GQ ENG,"Gdansk, PL",0,ENG,Freelancer,21,B&M,0
+Kudakwashe Mugwambi,25160,"Mugwambi, Kudakwashe",Kudakwashe,Mugwambi,GQ ENG,"Warsaw, PL",Khurshed Gulbekov,ENG,Freelancer,21,W@H,0
 Talha Muhammad,14536,"Muhammad, Talha",Talha,Muhammad,SAS POS,"Warsaw, PL",Ricardo Vargas,L2,Freelancer,26,W@H,1179185
 Abel Muleta,24508,"Muleta, Abel",Abel,Muleta,GQ ENG,"Warsaw, PL",Marek Pucu³ek,ENG,Freelancer,#N/A,#N/A,
+Bamlak Mulu,X,"Mulu, Bamlak",Bamlak,Mulu,GQ ENG,"Warsaw, PL",Iwona Koszel,ENG,Freelancer,21,W@H,0
+Nibras Mulu,X,"Mulu, Nibras",Nibras,Mulu,GQ ENG,"Warsaw, PL",Belinda Mutsakanyi,ENG,Freelancer,21,W@H,0
 Lisa Mungarevani,24355,"Mungarevani, Lisa",Lisa,Mungarevani,GQ ENG,"Gdansk, PL",Justyna Klimek,ENG,Contract,21,#N/A,1383944
 Ivy Mungure,25497,"Mungure, Ivy",Ivy,Mungure,GQ ENG,"Gdansk, PL",Marzena Nowak,ENG,Contract,#N/A,#N/A,1393576
+Javad Mungurne,X,"Mungurne, Javad",Javad,Mungurne,GQ ENG,"Gdansk, PL",Marzena Nowak,ENG,Freelancer,21,B&M,1393576
 Nelson Munyanduri,23202,"Munyanduri, Nelson",Nelson,Munyanduri,GQ ENG,"Warsaw, PL",Jemal Babayeva,ENG,Freelancer,21,B&M,
 Samantha Murengami,20330,"Murengami, Samantha",Samantha,Murengami,GQ ENG,"Warsaw, PL",Rafa³ Rogowski,ENG,Freelancer,22,W@H,1346980
 Dilnoza Murodova,21146,"Murodova, Dilnoza",Dilnoza,Murodova,GQ ENG,"Warsaw, PL",Edward Nakula,ENG,Freelancer,22,W@H,
-Sadokat Murodova,22668,"Murodova, Sadokat",Sadokat,Murodova,EMAIL,"Warsaw, PL",Nodir Solijonov,ENG,Freelancer,22,W@H,
+Sadokat Murodova,22668,"Murodova, Sadokat",Sadokat,Murodova,Sitel Email,"Warsaw, PL",Nodir Solijonov,ENG,Freelancer,22,W@H,
 Dylan Musana,22669,"Musana, Dylan",Dylan,Musana,GQ ENG,"Warsaw, PL",Khurshed Gulbekov,ENG,Freelancer,21,W@H,
 Shamiso Mushonga,21833,"Mushonga, Shamiso",Shamiso,Mushonga,GQ ENG,"Warsaw, PL",Edward Nakula,ENG,Contract,23,W@H,1368428
 Ellen Muswere,23483,"Muswere, Ellen",Ellen,Muswere,GQ ENG,"Gdansk, PL",£ukasz Cierpiñski,ENG,Freelancer,21,W@H,1380458
 Bernadette Mutsvagiwa,23487,"Mutsvagiwa, Bernadette",Bernadette,Mutsvagiwa,GQ ENG,"Warsaw, PL",Marek Pucu³ek,ENG,Freelancer,21,W@H,
 Enock Muzire,17969,"Muzire, Enock",Enock,Muzire,RST,"Warsaw, PL",Fadzisai Chinyamakobvu,ENG,Freelancer,23,W@H,1328903
+Doniyorbek Nabiev,X,"Nabiev, Doniyorbek",Doniyorbek,Nabiev,GQ ENG,"Warsaw, PL",#N/A,ENG,Contract,#N/A,#N/A,#N/A
 Mohamad Naffaa,27255,"Naffaa, Mohamad",,,GQ ENG,"Gdansk, PL",Dawid Czaplak,ENG,Freelancer,21,W@H,1404872
 Muteguza Nanda,27254,"Nanda, Muteguza",,,GQ ENG,"Gdansk, PL",Justyna Klimek,ENG,Freelancer,21,W@H,1404856
 Celesta Ncube,19940,"Ncube, Celesta",Celesta,Ncube,GQ ENG,"Warsaw, PL",Anna Sabbatini,ENG,Contract,22,W@H,1343339
+Zandisiwe Ndhlovu,X,"Ndhlovu, Zandisiwe",Zandisiwe,Ndhlovu,GQ ENG,"Warsaw, PL",Wojciech Walkiewicz,ENG,Freelancer,21,W@H,2
 Saida Ndihagule,23760,"Ndihagule, Saida",Saida,Ndihagule,GQ ENG,"Warsaw, PL",Rafa³ Rogowski,ENG,Contract,22,#N/A,
-Rosine Ndikubwimana,25180,"Ndikubwimana, Rosine",Rosine,Ndikubwimana,UK/FR,"Warsaw, PL",Mi³ka Szuster,FR/ENG,Contract,32,#N/A,
+Rosine Ndikubwimana,25180,"Ndikubwimana, Rosine",Rosine,Ndikubwimana,RISK,"Warsaw, PL",Mi³ka Szuster,FR/ENG,Contract,32,#N/A,
+Sandra Ndimkorah,X,"Ndimkorah, Sandra",Sandra,Ndimkorah,GQ ENG,"Gdansk, PL",0,ENG,Freelancer,21,B&M,0
+Loraine Ndiweni,X,"Ndiweni, Loraine",Loraine,Ndiweni,RST,"Warsaw, PL",Victoria Yurkina,ENG,Freelancer,22,W@H,0
 Cynthia Ndlovu,24346,"Ndlovu, Cynthia",Cynthia,Ndlovu,GQ ENG,"Gdansk, PL",Agata Mielewczyk,ENG,Contract,#N/A,#N/A,1383169
 Kim Ndlovu,25165,"Ndlovu, Kim",Kim,Ndlovu,GQ ENG,"Warsaw, PL",Khurshed Gulbekov,ENG,Freelancer,22,#N/A,
 Thabani Ndlovu,23477,"Ndlovu, Thabani",Thabani,Ndlovu,GQ ENG,"Gdansk, PL",Dawid Czaplak,ENG,Freelancer,21,W@H,1380443
 Kaleb Negassa,16404,"Negassa, Kaleb",Kaleb,Negassa,RTL,"Warsaw, PL",Jemal Babayeva,ENG,Freelancer,23,W@H,1315196
 Prosper Nenharira,25811,"Nenharira, Prosper",Prosper,Nenharira,GQ ENG,"Warsaw, PL",Nontobeko Linda Moyo,ENG,Contract,22,W@H,1395505
-Peter Ngara,19956,"Ngara, Peter",Peter,Ngara,GQ ENG,"Warsaw, PL",Jemal Babayeva,ENG,Freelancer,#N/A,#N/A,1343180
+Peter Ngara,19956,"Ngara, Peter",Peter,Ngara,RST,"Warsaw, PL",Jemal Babayeva,ENG,Freelancer,#N/A,#N/A,1343180
+Tanaka Ngara,X,"Ngara, Tanaka",Tanaka,Ngara,GQ ENG,"Warsaw, PL",Jemal Babayeva,ENG,Freelancer,22,W@H,1343180
 Christine Ngarambe,22675,"Ngarambe, Christine",Christine,Ngarambe,UK/FR,"Warsaw, PL",Mi³ka Szuster,FR/ENG,Freelancer,28,W@H,
-Hafsana Ngesonziza,26660,"Ngesonziza, Hafsana",Hafsana,Ngesonziza,UK/FR,"Warsaw, PL",Mi³ka Szuster,FR/ENG,Freelancer,32,W@H,
-Lerato Ngwenya,19946,"Ngwenya, Lerato",Lerato,Ngwenya,GQ,"Warsaw, PL",Nontobeko Moyo,ENG,Freelancer,21,W@H,0
+Hafsana Ngesonziza,26660,"Ngesonziza, Hafsana",Hafsana,Ngesonziza,CAD FR,"Warsaw, PL",Paul Skora,FR/ENG,Freelancer,32,W@H,
+Lerato Ngwenya,19946,"Ngwenya, Lerato",Lerato,Ngwenya,GQ ENG,"Warsaw, PL",Nontobeko Moyo,ENG,Freelancer,21,W@H,0
+Laiba Nisar,X,"Nisar, Laiba",Laiba,Nisar,GQ ENG,"Warsaw, PL",Brian Bvunza,ENG,Freelancer,21,W@H,0
 Kudratbek Nishonov,20324,"Nishonov, Kudratbek",Kudratbek,Nishonov,PRE SAS,"Warsaw, PL",Victoria Yurkina,ENG,Freelancer,23,W@H,1346978
 BENOIT NKUSI,25821,"NKUSI, BENOIT",BENOIT,NKUSI,GQ ENG,"Warsaw, PL",Fadzisai Chinyamakobvu,ENG,Contract,22,W@H,
-Nelson Nnamani,16411,"Nnamani, Nelson",Nelson,Nnamani,GQ,"Warsaw, PL",Nontobeko Moyo,ENG,Freelancer,22,W@H,0
+Nelson Nnamani,16411,"Nnamani, Nelson",Nelson,Nnamani,GQ ENG,"Warsaw, PL",Nontobeko Moyo,ENG,Freelancer,22,W@H,0
+Fitsum Nocek,X,"Nocek, Fitsum",Fitsum,Nocek,GQ ENG,"Gdansk, PL",0,ENG,Freelancer,21,B&M,0
 Elvira Novosad,14533,"Novosad, Elvira",Elvira,Novosad,SAS POS,"Warsaw, PL",Ricardo Vargas,L2,Contract,28,W@H,1277332
 Lolita Nsengiyumva,21856,"Nsengiyumva, Lolita",Lolita,Nsengiyumva,CAD FR,"Warsaw, PL",Paul Skora,FR/ENG,Freelancer,32,W@H,1371163
 Alain Nshimyumuremyi,22971,"Nshimyumuremyi, Alain",Alain,Nshimyumuremyi,GQ ENG,"Gdansk, PL",Dawid Czaplak,ENG,Contract,#N/A,#N/A,1376902
@@ -270,57 +339,79 @@ Dumile Ntini,16394,"Ntini, Dumile",Dumile,Ntini,RTL,"Warsaw, PL",Jemal Babayeva,
 Daniel Ntwali,21857,"Ntwali, Daniel",Daniel,Ntwali,UK/FR,"Warsaw, PL",Mi³ka Szuster,FR/ENG,Freelancer,28,W@H,1371165
 Boymurod Numonov,21143,"Numonov, Boymurod",Boymurod,Numonov,GQ ENG,"Warsaw, PL",Nontobeko Linda Moyo,ENG,Freelancer,23,W@H,1127925
 Nonceba Nunu,19950,"Nunu, Nonceba",Nonceba,Nunu,GQ ENG,"Warsaw, PL",Nontobeko Linda Moyo,ENG,Freelancer,23,W@H,1179156
+Christian Nwarueze,X,"Nwarueze, Christian",Christian,Nwarueze,GQ ENG,"Gdansk, PL",Agata Mielewczyk,ENG,Freelancer,21,W@H,1380442
 Andile Nxele,26655,"Nxele, Andile",Andile,Nxele,GQ ENG,"Warsaw, PL",Khurshed Gulbekov,ENG,Freelancer,22,W@H,
+Takudzwa Nyamukapa,X,"Nyamukapa, Takudzwa",Takudzwa,Nyamukapa,GQ ENG,"Warsaw, PL",#N/A,ENG,Contract,#N/A,#N/A,#N/A
+Clotilda Nyasha,X,"Nyasha, Clotilda",Clotilda,Nyasha,GQ ENG,"Gdansk, PL",Agata Mielewczyk,ENG,Freelancer,21,W@H,1380440
 Methembe Nyathi,25830,"Nyathi, Methembe",Methembe,Nyathi,GQ ENG,"Warsaw, PL",Khurshed Gulbekov,ENG,Freelancer,22,W@H,
 Anais Nyirahuku,17963,"Nyirahuku, Anais",Anais,Nyirahuku,UK/FR,"Warsaw, PL",Mi³ka Szuster,FR/ENG,Freelancer,28,W@H,1328479
 Donald Odobo,16418,"Odobo, Donald",Donald,Odobo,RST,"Warsaw, PL",Fadzisai Chinyamakobvu,ENG,Contract,22,W@H,1315634
-Ijeoma Ogbolu,26656,"Ogbolu, Ijeoma",,,GQ,"Warsaw, PL",Khurshed Gulbekov,ENG,Freelancer,21,W@H,0
+IJEOMA OGBOLU,X,"OGBOLU, IJEOMA",IJEOMA,OGBOLU,GQ ENG,"Warsaw, PL",Khurshed Gulbekov,ENG,Freelancer,22,W@H,1401761
+Ijeoma Ogbolu,26656,"Ogbolu, Ijeoma",,,GQ ENG,"Warsaw, PL",Khurshed Gulbekov,ENG,Freelancer,21,W@H,0
 Emmanuel Ogbonnaya,24516,"Ogbonnaya, Emmanuel",Emmanuel,Ogbonnaya,GQ ENG,"Warsaw, PL",Marek Pucu³ek,ENG,Contract,21,#N/A,
+Rafiat Ogundele,X,"Ogundele, Rafiat",Rafiat,Ogundele,GQ ENG,"Warsaw, PL",Belinda Mutsakanyi,ENG,Freelancer,21,W@H,0
 Abel Ogwu,24905,"Ogwu, Abel",Abel,Ogwu,GQ ENG,"Gdansk, PL",Marzena Nowak,ENG,Freelancer,21,B&M,1388289
+Emmanuel Ohize,X,"Ohize, Emmanuel",Emmanuel,Ohize,RTL,"Warsaw, PL",Belinda Mutsakanyi,ENG,Contract,21,W@H,0
+Beryl Okal,X,"Okal, Beryl",Beryl,Okal,GQ ENG,"Warsaw, PL",Edward Nakula,ENG,Freelancer,21,B&M,0
+Peace Okorie,X,"Okorie, Peace",Peace,Okorie,GQ ENG,"Warsaw, PL",Anna Sabbatini,ENG,Freelancer,22,W@H,1343167
 Courage Okoror,17966,"Okoror, Courage",Courage,Okoror,RST,"Warsaw, PL",Fadzisai Chinyamakobvu,ENG,Contract,23,W@H,1328942
 David Okpachui,25166,"Okpachui, David",David,Okpachui,GQ ENG,"Warsaw, PL",Edward Nakula,ENG,Freelancer,22,#N/A,
 Dare Oladipo,21590,"Oladipo, Dare",Dare,Oladipo,GQ ENG,"Gdansk, PL",Justyna Klimek,ENG,Contract,22,W@H,1368075
+Tomilola Olowojaiye,X,"Olowojaiye, Tomilola",Tomilola,Olowojaiye,GQ ENG,"Warsaw, PL",#N/A,ENG,Freelancer,22,#N/A,139076A
+Michal Olszewski,X,"Olszewski, Michal",Michal,Olszewski,GQ ENG,"Gdansk, PL",Klaudia Gutowska,ENG,Contract,21,W@H,58
 EGBEJINMI OLUWATOYESE,23207,"OLUWATOYESE, EGBEJINMI",EGBEJINMI,OLUWATOYESE,GQ ENG,"Warsaw, PL",Anna Sabbatini,ENG,Freelancer,21,W@H,1378415
-Desmond Omoluru,21824,"Omoluru, Desmond",Desmond,Omoluru,GQ,"Warsaw, PL",Belinda Mutsakanyi,ENG,Freelancer,21,W@H,0
-Colin Onions,16393,"Onions, Colin",Colin,Onions,SAS,"Warsaw, PL",Victoria Yurkina,ENG,Freelancer,28,W@H,1313944
+Desmond Omoluru,21824,"Omoluru, Desmond",Desmond,Omoluru,GQ ENG,"Warsaw, PL",Belinda Mutsakanyi,ENG,Freelancer,21,W@H,0
+Colin Onions,16393,"Onions, Colin",Colin,Onions,SAS POS,"Warsaw, PL",Victoria Yurkina,ENG,Freelancer,28,W@H,1313944
 Angela Opara,25834,"Opara, Angela",Angela,Opara,GQ ENG,"Warsaw, PL",Belinda Mutsakanyi,ENG,Freelancer,21,W@H,
 Elias Orion Belachew,15215,"Orion Belachew, Elias",Elias,Orion Belachew,PQ OVN,"Warsaw, PL",Iwona Koszel,ENG,Freelancer,#N/A,#N/A,1288069
 Ange Orline Igiraneza,21851,"Orline Igiraneza, Ange",Ange,Orline Igiraneza,UK/FR,"Warsaw, PL",Mi³ka Szuster,FR/ENG,Freelancer,#N/A,#N/A,
 Noussair Ouchkif,22677,"Ouchkif, Noussair",Noussair,Ouchkif,FR GQ,"Warsaw, PL",Mi³ka Szuster,FR/ENG,Freelancer,32,W@H,
 Ayoub Ourahali,23187,"Ourahali, Ayoub",Ayoub,Ourahali,UK/FR,"Warsaw, PL",Mi³ka Szuster,FR/ENG,Freelancer,32,B&M,
-Thiththala Peiris,21159,"Peiris, Thiththala",Thiththala,Peiris,EMAIL,"Warsaw, PL",Nodir Solijonov,ENG,Freelancer,21,W@H,1358289
-Nikola Pettke,21585,"Pettke, Nikola",Nikola,Pettke,GQ,"Gdansk, PL",Dawid Czaplak,ENG,Freelancer,23,W@H,1368079
+Timothy Oyetade,X,"Oyetade, Timothy",Timothy,Oyetade,SAS POS,"Warsaw, PL",Ricardo Vargas,ENG,Contract,26,W@H,1343162
+Thiththala Peiris,21159,"Peiris, Thiththala",Thiththala,Peiris,Sitel Email,"Warsaw, PL",Nodir Solijonov,ENG,Freelancer,21,W@H,1358289
+Nikola Pettke,21585,"Pettke, Nikola",Nikola,Pettke,GQ ENG,"Gdansk, PL",Dawid Czaplak,ENG,Freelancer,23,W@H,1368079
 Alison Phiri,17962,"Phiri, Alison",Alison,Phiri,RST,"Warsaw, PL",Fadzisai Chinyamakobvu,ENG,Freelancer,23,W@H,1328944
+Kimberley Phiri,X,"Phiri, Kimberley",Kimberley,Phiri,GQ ENG,"Gdansk, PL",Aleksander Demiaszkiewicz,ENG,Freelancer,21,W@H,1380455
 Frances Pilia,22785,"Pilia, Frances",Frances,Pilia,AU GQ,Auckland,#N/A,ENG,Contract,#N/A,#N/A,#N/A
+Anna Piskorz-Long,X,"Piskorz-Long, Anna",Anna,Piskorz-Long,GQ ENG,"Gdansk, PL",Klaudia Gutowska,ENG,Contract,21,W@H,1
 Jacqueline Prasad,22795,"Prasad, Jacqueline",Jacqueline,Prasad,AU GQ,Auckland,#N/A,ENG,Contract,#N/A,#N/A,#N/A
 Frensi Qatipi,25814,"Qatipi, Frensi",Frensi,Qatipi,GQ ENG,"Warsaw, PL",Iwona Koszel,ENG,Freelancer,22,W@H,
 Mukhsinbek Rajabov,17978,"Rajabov, Mukhsinbek",Mukhsinbek,Rajabov,RTL,"Warsaw, PL",Belinda Mutsakanyi,ENG,Freelancer,23,W@H,1328905
 Egide Rangira,21165,"Rangira, Egide",Egide,Rangira,CAD FR,"Warsaw, PL",Paul Skora,FR/ENG,Contract,30,W@H,
 Dexter Rinomhota,22665,"Rinomhota, Dexter",Dexter,Rinomhota,GQ ENG,"Warsaw, PL",Edward Nakula,ENG,Freelancer,21,W@H,
-Robera Benti,26630,"Robera, Benti",Robera,Benti,GQ,"Gdansk, PL",Lukasz Cierpinski,ENG,Freelancer,21,W@H,0
-Jakub Rompa,21582,"Rompa, Jakub",Jakub,Rompa,GQ,"Gdansk, PL",Klaudia Gutowska,ENG,Contract,24,W@H,1368091
-Anthony Roxshan,21142,"Roxshan, Anthony",Anthony,Roxshan,EMAIL,"Warsaw, PL",Nodir Solijonov,ENG,Contract,22,W@H,1358092
+Robera Benti,26630,"Robera, Benti",Robera,Benti,GQ ENG,"Gdansk, PL",Lukasz Cierpinski,ENG,Freelancer,21,W@H,0
+Jakub Rompa,21582,"Rompa, Jakub",Jakub,Rompa,GQ ENG,"Gdansk, PL",Klaudia Gutowska,ENG,Contract,24,W@H,1368091
+Anthony Roxshan,21142,"Roxshan, Anthony",Anthony,Roxshan,Sitel Email,"Warsaw, PL",Nodir Solijonov,ENG,Contract,22,W@H,1358092
 Anuradha Roy,24515,"Roy, Anuradha",Anuradha,Roy,Sitel Email,"Warsaw, PL",Ricardo Vargas,ENG,Freelancer,21,W@H,0
 Paidamoyo Rufaro,24348,"Rufaro, Paidamoyo",Paidamoyo,Rufaro,GQ ENG,"Gdansk, PL",Justyna Klimek,ENG,Freelancer,#N/A,#N/A,1383947
+Ronald Rugema,X,"Rugema, Ronald",Ronald,Rugema,GQ ENG,"Gdansk, PL",Agata Mielewczyk,ENG,Freelancer,21,W@H,1380457
+Collin Rutikanga,X,"Rutikanga, Collin",Collin,Rutikanga,GQ ENG,"Warsaw, PL",Rafal Rogowski,ENG,Freelancer,21,W@H,0
 Kaliza Ruzibiza Lyna,21839,"Ruzibiza Lyna, Kaliza",Kaliza,Ruzibiza Lyna,GQ ENG,"Warsaw, PL",Jemal Babayeva,ENG,Freelancer,#N/A,#N/A,1368438
 Gisa Rwigema,22680,"Rwigema, Gisa",Gisa,Rwigema,GQ FRENCH,"Warsaw, PL",Paul Skora,FR/ENG,Freelancer,28,W@H,
 Sarah Rwubuzizi,21166,"Rwubuzizi, Sarah",Sarah,Rwubuzizi,CAD FR,"Warsaw, PL",Paul Skora,FR/ENG,Freelancer,28,W@H,
+Parviza Sabzalieva,X,"Sabzalieva, Parviza",Parviza,Sabzalieva,GQ ENG,"Gdansk, PL",Klaudia Gutowska,ENG,Freelancer,21,W@H,55
+Parviz Saidov,X,"Saidov, Parviz",Parviz,Saidov,GQ ENG,"Warsaw, PL",Anna Sabbatini,ENG,Freelancer,22,W@H,1343331
 Mastona Saidshoeva,21832,"Saidshoeva, Mastona",Mastona,Saidshoeva,GQ ENG,"Warsaw, PL",Belinda Mutsakanyi,ENG,Freelancer,21,W@H,1368426
-Mahmoud Salem,26631,"Salem, Mahmoud",,,GQ,"Gdansk, PL",Lukasz Cierpinski,ENG,Freelancer,21,W@H,0
+Mahmoud Salem,26631,"Salem, Mahmoud",,,GQ ENG,"Gdansk, PL",Lukasz Cierpinski,ENG,Freelancer,21,W@H,0
+Misiker Salem,X,"Salem, Misiker",Misiker,Salem,GQ ENG,"Gdansk, PL",0,ENG,Freelancer,21,B&M,0
+Nyingsha Salihou,X,"Salihou, Nyingsha",Nyingsha,Salihou,GQ ENG,"Warsaw, PL",#N/A,ENG,Contract,#N/A,#N/A,#N/A
 Elham Salim Jemal,21831,"Salim Jemal, Elham",Elham,Salim Jemal,GQ ENG,"Warsaw, PL",Edward Nakula,ENG,Freelancer,#N/A,#N/A,1368417
 Michael Samkyi,25177,"Samkyi, Michael",Michael,Samkyi,GQ ENG,"Warsaw, PL",Rafa³ Rogowski,ENG,Freelancer,#N/A,#N/A,
+Theophany Samuriwo,X,"Samuriwo, Theophany",Theophany,Samuriwo,GQ ENG,"Warsaw, PL",Wojciech Walkiewicz,ENG,Freelancer,21,W@H,49
 Tiwayi Sanyika,24499,"Sanyika, Tiwayi",Tiwayi,Sanyika,GQ ENG,"Warsaw, PL",Marek Pucu³ek,ENG,Freelancer,21,#N/A,
-Michael Sebhatu,24357,"Sebhatu, Michael",Michael,Sebhatu,GQ ENG,"Gdansk, PL",Justyna Klimek,ENG,Freelancer,22,#N/A,1385021
+Michael Sebhatu,24357,"Sebhatu, Michael",Michael,Sebhatu,RST,"Gdansk, PL",Justyna Klimek,ENG,Freelancer,22,#N/A,1385021
 Said Selemani,24496,"Selemani, Said",Said,Selemani,GQ ENG,"Warsaw, PL",Marek Pucu³ek,ENG,Freelancer,#N/A,#N/A,
-Ashok Sen,22661,"Sen, Ashok",Ashok,Sen,GQ ENG,"Warsaw, PL",Belinda Mutsakanyi,ENG,Contract,22,W@H,
+Ashok Sen,22661,"Sen, Ashok",Ashok,Sen,RTL,"Warsaw, PL",Belinda Mutsakanyi,ENG,Contract,22,W@H,
 Arghya Sengupta,25163,"Sengupta, Arghya",Arghya,Sengupta,GQ ENG,"Warsaw, PL",Anna Sabbatini,ENG,Contract,22,W@H,1390731
+Aaliya Shalee,X,"Shalee, Aaliya",Aaliya,Shalee,GQ ENG,"Gdansk, PL",#N/A,ENG,Contract,#N/A,#N/A,#N/A
 Kumar Sheetal,25146,"Sheetal, Kumar",Kumar,Sheetal,AU GQ,Auckland,#N/A,ENG,Contract,#N/A,#N/A,#N/A
 Mieraf Shiferaw,21842,"Shiferaw, Mieraf",Mieraf,Shiferaw,GQ ENG,"Warsaw, PL",Khurshed Gulbekov,ENG,Freelancer,22,W@H,1368451
 Tafadzwa Shoniwa,22964,"Shoniwa, Tafadzwa",Tafadzwa,Shoniwa,GQ ENG,"Gdansk, PL",Dawid Czaplak,ENG,Freelancer,21,W@H,1376890
 Javad Shukurlu,25499,"Shukurlu, Javad",Javad,Shukurlu,GQ ENG,"Gdansk, PL",Marzena Nowak,ENG,Freelancer,22,#N/A,1393580
+Jenneh Shukurlu,X,"Shukurlu, Jenneh",Jenneh,Shukurlu,GQ ENG,"Gdansk, PL",Marzena Nowak,ENG,Freelancer,21,B&M,1393580
 Gamuchirai Shumba,24512,"Shumba, Gamuchirai",Gamuchirai,Shumba,GQ ENG,"Warsaw, PL",Marek Pucu³ek,ENG,Freelancer,21,#N/A,
-Regis Shyaka,21846,"Shyaka, Regis",Regis,Shyaka,CAD French,"Warsaw, PL",Mi³ka Szuster,FR/ENG,Freelancer,21,W@H,0
-Makabongwe Sibanda,20326,"Sibanda, Makabongwe",Makabongwe,Sibanda,GQ,"Warsaw, PL",#N/A,ENG,Freelancer,22,#N/A,1347955
+Regis Shyaka,21846,"Shyaka, Regis",Regis,Shyaka,CAD FR,"Warsaw, PL",Mi³ka Szuster,FR/ENG,Freelancer,21,W@H,0
+Makabongwe Sibanda,20326,"Sibanda, Makabongwe",Makabongwe,Sibanda,GQ ENG,"Warsaw, PL",#N/A,ENG,Freelancer,22,#N/A,1347955
 Princess Sibanda,26652,"Sibanda, Princess",Princess,Sibanda,GQ ENG,"Warsaw, PL",Fadzisai Chinyamakobvu,ENG,Freelancer,22,W@H,
 Thembinkosi Sibanda,23478,"Sibanda, Thembinkosi",Thembinkosi,Sibanda,GQ ENG,"Gdansk, PL",Dawid Czaplak,ENG,Freelancer,21,W@H,1380444
 ABEL SIMENEH,26646,"SIMENEH, ABEL",ABEL,SIMENEH,GQ ENG,"Warsaw, PL",Belinda Mutsakanyi,ENG,Freelancer,22,W@H,
@@ -329,37 +420,45 @@ YUVARAJ SINGH,23765,"SINGH, YUVARAJ",YUVARAJ,SINGH,GQ ENG,"Warsaw, PL",Anna Sabb
 Wallace Sinniamourd,25504,"Sinniamourd, Wallace",Wallace,Sinniamourd,GQ ENG,"Gdansk, PL",£ukasz Cierpiñski,ENG,Freelancer,22,#N/A,1393630
 Alina Skupniewska,13832,"Skupniewska, Alina",Alina,Skupniewska,RISK,"Warsaw, PL",Mi³ka Szuster,FR/ENG,Contract,30,W@H,
 Ingabire Solange,17402,"Solange, Ingabire",Ingabire,Solange,CAD FR,"Warsaw, PL",Paul Skora,FR/ENG,Contract,31,#N/A,1323299
-Daniel Spector,27478,"Spector, Daniel",,,GQ,"Warsaw, PL",0,ENG,Freelancer,21,W@H,0
+Daniel Spector,27478,"Spector, Daniel",,,GQ ENG,"Warsaw, PL",0,ENG,Freelancer,21,W@H,0
 Sandra Stec,26644,"Stec, Sandra",,,GQ ENG,"Gdansk, PL",Agata Mielewczyk,ENG,Freelancer,21,W@H,1401750
+Suellen Stec,X,"Stec, Suellen",Suellen,Stec,GQ ENG,"Gdansk, PL",0,ENG,Freelancer,21,B&M,0
 Shema Stephane,21163,"Stephane, Shema",Shema,Stephane,CAD FR,"Warsaw, PL",Paul Skora,FR/ENG,Freelancer,28,W@H,
 Mubarak Subair,25153,"Subair, Mubarak",Mubarak,Subair,GQ ENG,"Warsaw, PL",Rafa³ Rogowski,ENG,Contract,22,#N/A,
 Helg Sulani,25145,"Sulani, Helg",Helg,Sulani,AU GQ,Auckland,#N/A,ENG,Contract,#N/A,#N/A,#N/A
 Ulyana Svirydzenka,24904,"Svirydzenka, Ulyana",Ulyana,Svirydzenka,GQ ENG,"Gdansk, PL",Marzena Nowak,ENG,Freelancer,21,B&M,1388265
 Adam Szurzynski,24906,"Szurzynski, Adam",Adam,Szurzynski,GQ ENG,"Gdansk, PL",Agata Mielewczyk,ENG,Contract,#N/A,#N/A,1388300
 Alexandre Tabaruka,25838,"Tabaruka, Alexandre",Alexandre,Tabaruka,UK/FR,"Warsaw, PL",Mi³ka Szuster,FR/ENG,Freelancer,32,W@H,
+Paulos Taddele Birhanu,X,"Taddele Birhanu, Paulos",Paulos,Taddele Birhanu,SAS POS,"Warsaw, PL",Ricardo Vargas,L2,Freelancer,#N/A,#N/A,#N/A
 Ruth Tadesse,21841,"Tadesse, Ruth",Ruth,Tadesse,GQ ENG,"Warsaw, PL",Iwona Koszel,ENG,Freelancer,21,W@H,1368449
-Yanet Michael Tadesse,19958,"Tadesse, Yanet Michael",Yanet Michael,Tadesse,EMAIL,"Warsaw, PL",Nodir Solijonov,ENG,Contract,#N/A,#N/A,1343483
+Yanet Michael Tadesse,19958,"Tadesse, Yanet Michael",Yanet Michael,Tadesse,Sitel Email,"Warsaw, PL",Nodir Solijonov,ENG,Contract,#N/A,#N/A,1343483
 Desmond Tafirenyika,25816,"Tafirenyika, Desmond",Desmond,Tafirenyika,GQ ENG,"Warsaw, PL",Iwona Koszel,ENG,Freelancer,22,W@H,
 Kidist Tamiru,25828,"Tamiru, Kidist",Kidist,Tamiru,GQ ENG,"Warsaw, PL",Jemal Babayeva,ENG,Freelancer,21,W@H,
 Samuriwo Tapiwanashe,21591,"Tapiwanashe, Samuriwo",Samuriwo,Tapiwanashe,GQ ENG,"Gdansk, PL",Agata Mielewczyk,ENG,Freelancer,21,W@H,1368090
 Bantalem Teffera,20317,"Teffera, Bantalem",Bantalem,Teffera,GQ ENG,"Warsaw, PL",Khurshed Gulbekov,ENG,Contract,#N/A,#N/A,1167133
+Bamlak Tekeste,X,"Tekeste, Bamlak",Bamlak,Tekeste,GQ ENG,"Warsaw, PL",Nontobeko Moyo,ENG,Freelancer,21,W@H,0
 Gugulethu Tembo,25156,"Tembo, Gugulethu",Gugulethu,Tembo,GQ ENG,"Warsaw, PL",Belinda Mutsakanyi,ENG,Freelancer,21,W@H,
 Renee Tepana,22787,"Tepana, Renee",Renee,Tepana,AU GQ,Auckland,#N/A,ENG,Contract,#N/A,#N/A,#N/A
-Arsema Tesema,27252,"Tesema, Arsema",,,GQ,"Gdansk, PL",0,ENG,Freelancer,21,W@H,0
-Asfaw Tesfay,27257,"Tesfay, Asfaw",,,GQ,"Gdansk, PL",0,ENG,Freelancer,21,W@H,0
+Arsema Tesema,27252,"Tesema, Arsema",,,GQ ENG,"Gdansk, PL",0,ENG,Freelancer,21,W@H,0
+Asfaw Tesfay,27257,"Tesfay, Asfaw",,,GQ ENG,"Gdansk, PL",0,ENG,Freelancer,21,W@H,0
 Uyen Thuy,21838,"Thuy, Uyen",Uyen,Thuy,GQ ENG,"Warsaw, PL",Rafa³ Rogowski,ENG,Freelancer,28,W@H,1368437
 Natnael Tibebe,26639,"Tibebe, Natnael",,,GQ ENG,"Gdansk, PL",£ukasz Cierpiñski,ENG,Freelancer,21,W@H,1402312
-OGUNFIDITIMI TOLULOPE,23757,"TOLULOPE, OGUNFIDITIMI",OGUNFIDITIMI,TOLULOPE,GQ,"Warsaw, PL",Rafal Rogowski,ENG,Freelancer,21,W@H,0
+Portia Tibebe,X,"Tibebe, Portia",Portia,Tibebe,GQ ENG,"Gdansk, PL",0,ENG,Freelancer,21,B&M,0
+OGUNFIDITIMI TOLULOPE,23757,"TOLULOPE, OGUNFIDITIMI",OGUNFIDITIMI,TOLULOPE,GQ ENG,"Warsaw, PL",Rafal Rogowski,ENG,Freelancer,21,W@H,0
 Nathan Tonodele,21853,"Tonodele, Nathan",Nathan,Tonodele,GQ FRENCH,"Warsaw, PL",Paul Skora,FR/ENG,Freelancer,21,W@H,1371005
+Faig Topchuyev,X,"Topchuyev, Faig",Faig,Topchuyev,SAS POS,"Warsaw, PL",Ricardo Vargas,ENG,Freelancer,26,W@H,0
 Tigist Tsegaye,18004,"Tsegaye, Tigist",Tigist,Tsegaye,RST,"Warsaw, PL",Fadzisai Chinyamakobvu,ENG,Freelancer,23,W@H,1328975
 Nobandile Tshuma,25829,"Tshuma, Nobandile",Nobandile,Tshuma,GQ ENG,"Warsaw, PL",Nontobeko Linda Moyo,ENG,Freelancer,22,W@H,1395514
 Muhammadali Tursunov,23194,"Tursunov, Muhammadali",Muhammadali,Tursunov,GQ ENG,"Warsaw, PL",Jemal Babayeva,ENG,Freelancer,22,B&M,
 Chinemelum Udeh,24908,"Udeh, Chinemelum",Chinemelum,Udeh,GQ ENG,"Gdansk, PL",Marzena Nowak,ENG,Freelancer,21,B&M,1388325
 Peace Udochi Okorie,19952,"Udochi Okorie, Peace",Peace,Udochi Okorie,GQ ENG,"Warsaw, PL",Anna Sabbatini,ENG,Freelancer,#N/A,#N/A,1343167
 ASOMIDDIN UMARBAKIEV,25822,"UMARBAKIEV, ASOMIDDIN",ASOMIDDIN,UMARBAKIEV,GQ ENG,"Warsaw, PL",Fadzisai Chinyamakobvu,ENG,Freelancer,22,W@H,
+Benjamin Umeh,X,"Umeh, Benjamin",Benjamin,Umeh,GQ ENG,"Warsaw, PL",Anna Sabbatini,ENG,Contract,21,W@H,0
+Henry Umiwana,X,"Umiwana, Henry",Henry,Umiwana,CAD FR,"Warsaw, PL",Mi³ka Szuster,FR/ENG,Freelancer,21,W@H,0
 Henrietta Umoh,24500,"Umoh, Henrietta",Henrietta,Umoh,GQ ENG,"Warsaw, PL",Marek Pucu³ek,ENG,Contract,21,#N/A,
 Diwine Uwase,17967,"Uwase, Diwine",Diwine,Uwase,UK/FR,"Warsaw, PL",Mi³ka Szuster,FR/ENG,Freelancer,28,W@H,1328690
-Srinivasan Vhisvalingam,20333,"Vhisvalingam, Srinivasan",Srinivasan,Vhisvalingam,GQ,"Warsaw, PL",Anna Sabbatini,ENG,Freelancer,21,W@H,0
+Jasmine Uzun,X,"Uzun, Jasmine",Jasmine,Uzun,GQ ENG,"Gdansk, PL",0,ENG,Freelancer,21,B&M,0
+Srinivasan Vhisvalingam,20333,"Vhisvalingam, Srinivasan",Srinivasan,Vhisvalingam,GQ ENG,"Warsaw, PL",Anna Sabbatini,ENG,Freelancer,21,W@H,0
 Hana Wendmeagegnhu,15197,"Wendmeagegnhu, Hana",Hana,Wendmeagegnhu,PQ OVN,"Warsaw, PL",Iwona Koszel,ENG,Freelancer,23,W@H,1232127
 Ravinaldo Willemse,25812,"Willemse, Ravinaldo",Ravinaldo,Willemse,GQ ENG,"Warsaw, PL",Nontobeko Linda Moyo,ENG,Freelancer,22,W@H,1395570
 Casandra Willis,21827,"Willis, Casandra",Casandra,Willis,GQ ENG,"Warsaw, PL",Khurshed Gulbekov,ENG,Freelancer,21,W@H,1368413
@@ -368,15 +467,17 @@ Tsion Woldesemayat,21586,"Woldesemayat, Tsion",Tsion,Woldesemayat,GQ ENG,"Gdansk
 Sinedu Worku,25159,"Worku, Sinedu",Sinedu,Worku,GQ ENG,"Warsaw, PL",Fadzisai Chinyamakobvu,ENG,Freelancer,22,#N/A,
 Dagmawi Wudu,24345,"Wudu, Dagmawi",Dagmawi,Wudu,GQ ENG,"Gdansk, PL",Agata Mielewczyk,ENG,Contract,#N/A,#N/A,1383951
 Adedeji Yakubu,24495,"Yakubu, Adedeji",Adedeji,Yakubu,GQ ENG,"Warsaw, PL",Marek Pucu³ek,ENG,Contract,21,#N/A,
-Samuel Yeneneh,20331,"Yeneneh, Samuel",Samuel,Yeneneh,EMAIL,"Warsaw, PL",Nodir Solijonov,ENG,Freelancer,22,W@H,1347107
+Samuel Yeneneh,20331,"Yeneneh, Samuel",Samuel,Yeneneh,Sitel Email,"Warsaw, PL",Nodir Solijonov,ENG,Freelancer,22,W@H,1347107
 Betelhem Yenesew,23744,"Yenesew, Betelhem",Betelhem,Yenesew,GQ ENG,"Warsaw, PL",Belinda Mutsakanyi,ENG,Freelancer,21,W@H,
+Bantalem Yirga,X,"Yirga, Bantalem",Bantalem,Yirga,GQ ENG,"Warsaw, PL",Khurshed Gulbekov,ENG,Contract,21,W@H,0
 Chantelle Zaranyika,16391,"Zaranyika, Chantelle",Chantelle,Zaranyika,RTL,"Warsaw, PL",Jemal Babayeva,ENG,Freelancer,24,W@H,1289232
 Ahmad Zeb,23482,"Zeb, Ahmad",Ahmad,Zeb,GQ ENG,"Gdansk, PL",Justyna Klimek,ENG,Contract,21,W@H,1380449
 Mikias Zenabu,25832,"Zenabu, Mikias",Mikias,Zenabu,GQ ENG,"Warsaw, PL",Marek Pucu³ek,ENG,Freelancer,21,W@H,
 Michelle Zimai,23754,"Zimai, Michelle",Michelle,Zimai,GQ ENG,"Warsaw, PL",Jemal Babayeva,ENG,Contract,22,#N/A,
-Bertha Zimondi,25833,"Zimondi, Bertha",Bertha,Zimondi,GQ,"Warsaw, PL",Edward Nakula,ENG,Freelancer,21,W@H,0
-Ndangariro Zondesa,21150,"Zondesa, Ndangariro",Ndangariro,Zondesa,EMAIL,"Warsaw, PL",Nodir Solijonov,ENG,Freelancer,22,W@H,1358137
-Ayodeji Akinola,27642,"Akinola, Ayodeji",,,GQ,"Warsaw, PL",0,ENG,Freelancer,21,W@H,0
+Bertha Zimondi,25833,"Zimondi, Bertha",Bertha,Zimondi,GQ ENG,"Warsaw, PL",Edward Nakula,ENG,Freelancer,21,W@H,0
+Ndangariro Zondesa,21150,"Zondesa, Ndangariro",Ndangariro,Zondesa,Sitel Email,"Warsaw, PL",Nodir Solijonov,ENG,Freelancer,22,W@H,1358137
+Paidamoyo Zvenyika,X,"Zvenyika, Paidamoyo",Paidamoyo,Zvenyika,Sitel Email,"Gdansk, PL",Ricardo Vargas,ENG,Freelancer,22,#N/A,1383947
+Ayodeji Akinola,27642,"Akinola, Ayodeji",,,GQ ENG,"Warsaw, PL",0,ENG,Freelancer,21,W@H,0
 Leon Machaka,27650,"Machaka, Leon",,,GQ ENG,"Warsaw, PL",Paul Skora,ENG,Freelancer,21,W@H,
 Sakina Makhmudova,27646,"Makhmudova, Sakina",,,GQ ENG,"Warsaw, PL",Anna Sabbatini,ENG,Freelancer,21,W@H,
 Sonu Mathew,27644,"Mathew, Sonu",,,GQ ENG,"Warsaw, PL",Iwona Koszel,ENG,Freelancer,21,W@H,
@@ -385,9 +486,9 @@ JOHNSON SAKA,27649,"SAKA, JOHNSON",,,GQ ENG,"Warsaw, PL",Paul Skora,ENG,Freelanc
 RAHMAN SALAMI,27643,"SALAMI, RAHMAN",,,GQ ENG,"Warsaw, PL",Marek Pucu³ek,ENG,Freelancer,21,W@H,
 Marta Szewczyk,27476,"Szewczyk, Marta",,,ES/UK,"Warsaw, PL",Fadzisai Chinyamakobvu,ES/ENG,Freelancer,21,W@H,
 Ephrem Tadesse,27647,"Tadesse, Ephrem",,,GQ ENG,"Warsaw, PL",Paul Skora,ENG,Freelancer,21,W@H,
-GEORGE UZOGARA,27648,"UZOGARA, GEORGE",,,GQ,"Warsaw, PL",0,ENG,Freelancer,21,W@H,0
-Claudine Uwiman,27929,"Uwiman, Claudine",,,GQ,"Warsaw, PL",0,ENG,Freelancer,21,W@H,0
-Dunia Assad,27470,"Assad, Dunia",,,GQ,"Gdansk, PL",Dawid Czaplak,ENG,Freelancer,21,W@H,0
+GEORGE UZOGARA,27648,"UZOGARA, GEORGE",,,GQ ENG,"Warsaw, PL",0,ENG,Freelancer,21,W@H,0
+Claudine Uwiman,27929,"Uwiman, Claudine",,,GQ ENG,"Warsaw, PL",0,ENG,Freelancer,21,W@H,0
+Dunia Assad,27470,"Assad, Dunia",,,GQ ENG,"Gdansk, PL",Dawid Czaplak,ENG,Freelancer,21,W@H,0
 Yohanna Berhane,27465,"Berhane, Yohanna",,,GQ ENG,"Gdansk, PL",Justyna Klimek,ENG,Freelancer,21,W@H,1528281
 Bethelhem Berhe,27469,"Berhe, Bethelhem",,,GQ ENG,"Gdansk, PL",Dawid Czaplak,ENG,Freelancer,22,W@H,1528259
 Yohannes Hadgu,27464,"Hadgu, Yohannes",,,GQ ENG,"Gdansk, PL",Dawid Czaplak,ENG,Freelancer,21,W@H,1528270
@@ -408,10 +509,10 @@ Cesaly Stormont,27928,"Stormont, Cesaly",,,AU GQ,Auckland,0,ENG,Freelancer,21,W@
 Zerea Demissie,14517,"Demissie, Zerea",,,PRE SAS,"Warsaw, PL",Ricardo Vargas,ENG,Freelancer,21,W@H,0
 Paulos Birhanu,15198,"Birhanu, Paulos",,,PRE SAS,"Warsaw, PL",Ricardo Vargas,ENG,Freelancer,21,W@H,0
 Ekram Kedir,16396,"Kedir, Ekram",,,PRE SAS,"Warsaw, PL",Ricardo Vargas,L2,Freelancer,21,W@H,0
-Tomilola Olowojaiye,25154,"Olowojaiye, Tomilola",,,GQ,"Warsaw, PL",Mi³ka Szuster,ENG,Freelancer,21,W@H,0
+Tomilola Olowojaiye,25154,"Olowojaiye, Tomilola",,,GQ ENG,"Warsaw, PL",Mi³ka Szuster,ENG,Freelancer,21,W@H,0
 Israel Fola,27462,"Fola, Israel",,,GQ ENG,"Gdansk, PL",Agata Mielewczyk,ENG,Freelancer,21,W@H,1528428
 Godwill Tagarirofa,27637,"Tagarirofa, Godwill",,,GQ ENG,"Warsaw, PL",Fadzisai Chinyamakobvu,ENG,Freelancer,21,W@H,
-Rayan Abdallah,27638,"Abdallah, Rayan",,,GQ,"Warsaw, PL",Victoria Yurkina,ENG,Freelancer,21,W@H,0
+Rayan Abdallah,27638,"Abdallah, Rayan",,,GQ ENG,"Warsaw, PL",Victoria Yurkina,ENG,Freelancer,21,W@H,0
 Rupesh Patil,27639,"Patil, Rupesh",,,GQ ENG,"Warsaw, PL",Khurshed Gulbekov,ENG,Freelancer,21,W@H,
 Tendai Makuwerere,27640,"Makuwerere, Tendai",,,GQ ENG,"Warsaw, PL",Khurshed Gulbekov,ENG,Freelancer,21,W@H,
 Ebele Edokwe,27645,"Edokwe, Ebele",,,GQ ENG,"Warsaw, PL",Belinda Mutsakanyi,ENG,Freelancer,21,W@H,
@@ -428,7 +529,7 @@ Salem Hiruy,28080,"Hiruy, Salem",,,GQ ENG,"Warsaw, PL",Kamran Aliyev,ENG,Freelan
 Ogunji Josiah,28081,"Josiah, Ogunji",,,GQ ENG,"Warsaw, PL",Kamran Aliyev,ENG,Freelancer,21,W@H,
 Oumaima Yahia,28082,"Yahia, Oumaima",,,CAD FR,"Warsaw, PL",Paul Skora,FR/ENG,Freelancer,21,W@H,
 Mbongeni Thodlana,28083,"Thodlana, Mbongeni",,,GQ ENG,"Warsaw, PL",Kamran Aliyev,ENG,Freelancer,21,W@H,
-NICHOLAS CHUKWUMA,28084,"CHUKWUMA, NICHOLAS",,,GQ,"Warsaw, PL",Kamran Aliyev,ENG,Freelancer,21,W@H,
+NICHOLAS CHUKWUMA,28084,"CHUKWUMA, NICHOLAS",,,GQ ENG,"Warsaw, PL",Kamran Aliyev,ENG,Freelancer,21,W@H,
 Tadiwanashe Dzimbanhete,28085,"Dzimbanhete, Tadiwanashe",,,GQ ENG,"Warsaw, PL",Kamran Aliyev,ENG,Freelancer,21,W@H,
 Lavonne Chibi,28086,"Chibi, Lavonne",,,GQ ENG,"Warsaw, PL",Kamran Aliyev,ENG,Freelancer,21,W@H,
 ASRAT Alemu,28087,"Alemu, ASRAT",,,GQ ENG,"Warsaw, PL",Kamran Aliyev,ENG,Freelancer,21,W@H,
@@ -444,10 +545,10 @@ Amanuel Maruta,28106,"Maruta, Amanuel",,,GQ ENG,"Gdansk, PL",Jakub Rompa,ENG,Fre
 Enderiays Degifa,28107,"Degifa, Enderiays",,,GQ ENG,"Gdansk, PL",Jakub Rompa,ENG,Freelancer,21,W@H,1535058
 HERMELA GEBREKIDAN,28108,"GEBREKIDAN, HERMELA",,,GQ ENG,"Gdansk, PL",Jakub Rompa,ENG,Freelancer,21,W@H,1535475
 Enoh Samuel,28109,"Samuel, Enoh",,,GQ ENG,"Gdansk, PL",£ukasz Cierpiñski,ENG,Freelancer,21,W@H,1535062
-Tewobstya Tilahun,28110,"Tilahun, Tewobstya",,,GQ,"Gdansk, PL",Klaudia Gutowska,ENG,Freelancer,21,W@H,0
-Alina Pietrusiak,28111,"Pietrusiak, Alina",,,GQ,"Gdansk, PL",Justyna Klimek,ENG,Freelancer,21,W@H,0
+Tewobstya Tilahun,28110,"Tilahun, Tewobstya",,,GQ ENG,"Gdansk, PL",Klaudia Gutowska,ENG,Freelancer,21,W@H,0
+Alina Pietrusiak,28111,"Pietrusiak, Alina",,,GQ ENG,"Gdansk, PL",Justyna Klimek,ENG,Freelancer,21,W@H,0
 Yeabsira Bereda,28113,"Bereda, Yeabsira",,,GQ ENG,"Gdansk, PL",Jakub Rompa,ENG,Freelancer,21,W@H,1534990
-Umuhoza Carine,28114,"Carine, Umuhoza",,,GQ,"Gdansk, PL",Agata Mielewczyk,ENG,Freelancer,22,W@H,1534981
+Umuhoza Carine,28114,"Carine, Umuhoza",,,GQ ENG,"Gdansk, PL",Agata Mielewczyk,ENG,Freelancer,22,W@H,1534981
 Omar Elmasry,28115,"Elmasry, Omar",,,GQ ENG,"Gdansk, PL",£ukasz Cierpiñski,ENG,Freelancer,21,W@H,1535032
 Thubalenkosi Ngwenya,28461,"Ngwenya, Thubalenkosi",,,GQ ENG,"Gdansk, PL",Klaudia Gutowska,ENG,Freelancer,21,W@H,1534997
 Joanna Bielak,26666,"Bielak, Joanna",,,GQ ENG,"Warsaw, PL",Kamran Aliyev,ES/ENG,Freelancer,21,W@H,
@@ -508,69 +609,33 @@ Jasmine Isimbi kageruka,28897,"kageruka, Jasmine Isimbi",,,GQ ENG,"Gdansk, PL",M
 CHIAZOR RAPHEAL OBIOMAH,28899,"OBIOMAH, CHIAZOR RAPHEAL",,,GQ ENG,"Gdansk, PL",Monika Prus,ENG,Freelancer,,,1542733
 DOROTHY R. BHEBHE,28923,"BHEBHE, DOROTHY R.",,,GQ ENG,"Warsaw, PL",Osinuga Seyi,ENG,Freelancer,,,
 FLORENCE PANASHE TAKAWIRA,28920,"TAKAWIRA, FLORENCE PANASHE",,,GQ ENG,"Warsaw, PL",Osinuga Seyi,ENG,Freelancer,,,
-Ekram Kedir,16396,"Kedir, Ekram",,,PRE SAS,Warsaw,Ricardo Vargas,L2,Freelancer,21,W@H,0
-Tomilola Olowojaiye,25154,"Olowojaiye, Tomilola",,,GQ,Warsaw,Mi³ka Szuster,ENG,Freelancer,21,W@H,0
-Israel Fola,27462,"Fola, Israel",,,GQ,Gdansk,Agata Mielewczyk,ENG,Freelancer,21,W@H,1528428
-Godwill Tagarirofa,27637,"Tagarirofa, Godwill",,,GQ,Warsaw,Victoria Yurkina,ENG,Freelancer,21,W@H,
-Rayan Abdallah,27638,"Abdallah, Rayan",,,GQ,Warsaw,Victoria Yurkina,ENG,Freelancer,21,W@H,0
-Rupesh Patil,27639,"Patil, Rupesh",,,GQ,Warsaw,Khurshed Gulbekov,ENG,Freelancer,21,W@H,
-Tendai Makuwerere,27640,"Makuwerere, Tendai",,,GQ,Warsaw,Khurshed Gulbekov,ENG,Freelancer,21,W@H,
-Ebele Edokwe,27645,"Edokwe, Ebele",,,GQ,Warsaw,Belinda Mutsakanyi,ENG,Freelancer,21,W@H,
-Hidaya Saidi,28070,"Saidi, Hidaya",,,GQ,Warsaw,Kamran Aliyev,ENG,Freelancer,21,W@H,
-Tatenda Ndori,28071,"Ndori, Tatenda",,,GQ,Warsaw,Kamran Aliyev,ENG,Freelancer,21,W@H,
-Sarsha Banda,28072,"Banda, Sarsha",,,GQ,Warsaw,Kamran Aliyev,ENG,Freelancer,21,W@H,
-Zamira Ibragimovna,28073,"Ibragimovna, Zamira",,,GQ,Warsaw,Kamran Aliyev,ENG,Freelancer,21,W@H,
-Gugulethu Ncube,28074,"Ncube, Gugulethu",,,GQ,Warsaw,Kamran Aliyev,ENG,Freelancer,21,W@H,
-FADZAI GWIMBI,28075,"GWIMBI, FADZAI",,,GQ,Warsaw,Kamran Aliyev,ENG,Freelancer,21,W@H,
-Mike Ngaba,28077,"Ngaba, Mike",,,GQ,Warsaw,Kamran Aliyev,ENG,Freelancer,21,W@H,
-Pereus Rwezaura,28078,"Rwezaura, Pereus",,,GQ,Warsaw,Kamran Aliyev,ENG,Freelancer,21,W@H,
-EBENEZER SOLOMON,28079,"SOLOMON, EBENEZER",,,GQ,Warsaw,Kamran Aliyev,ENG,Freelancer,21,W@H,
-Salem Hiruy,28080,"Hiruy, Salem",,,GQ,Warsaw,Kamran Aliyev,ENG,Freelancer,21,W@H,
-Ogunji Josiah,28081,"Josiah, Ogunji",,,GQ,Warsaw,Kamran Aliyev,ENG,Freelancer,21,W@H,
-Oumaima Yahia,28082,"Yahia, Oumaima",,,GQ,Warsaw,Mi³ka Szuster,FR/ENG,Freelancer,21,W@H,
-Mbongeni Thodlana,28083,"Thodlana, Mbongeni",,,GQ,Warsaw,Kamran Aliyev,ENG,Freelancer,21,W@H,
-NICHOLAS CHUKWUMA,28084,"CHUKWUMA, NICHOLAS",,,GQ,Warsaw,Kamran Aliyev,ENG,Freelancer,21,W@H,
-Tadiwanashe Dzimbanhete,28085,"Dzimbanhete, Tadiwanashe",,,GQ,Warsaw,Kamran Aliyev,ENG,Freelancer,21,W@H,
-Lavonne Chibi,28086,"Chibi, Lavonne",,,GQ,Warsaw,Kamran Aliyev,ENG,Freelancer,21,W@H,
-ASRAT Alemu,28087,"Alemu, ASRAT",,,GQ,Warsaw,Kamran Aliyev,ENG,Freelancer,21,W@H,
-Javier Lopez,28093,"Lopez, Javier",,,GQ,Gdansk,Klaudia Gutowska,ES/ENG,Freelancer,21,W@H,1536893
-Yeabsira Samuel,28096,"Samuel, Yeabsira",,,GQ,Gdansk,Dawid Czaplak,ENG,Freelancer,21,W@H,1534946
-Samson Sileshi,28099,"Sileshi, Samson",,,GQ,Gdansk,Klaudia Gutowska,ENG,Freelancer,21,W@H,1535022
-Saba Indire,28100,"Indire, Saba",,,GQ,Gdansk,Agata Mielewczyk,ENG,Freelancer,21,W@H,1535028
-Semaetu Tsege,28101,"Tsege, Semaetu",,,GQ,Gdansk,Klaudia Gutowska,ENG,Freelancer,21,W@H,1535008
-Karen Siziba,28102,"Siziba, Karen",,,GQ,Gdansk,Dawid Czaplak,ENG,Freelancer,21,W@H,1535476
-Didier Furaha,28103,"Furaha, Didier",,,GQ,Gdansk,Agata Mielewczyk,ENG,Freelancer,21,W@H,1535471
-MUBESHIR MOHAMMED,28104,"MOHAMMED, MUBESHIR",,,GQ,Gdansk,Justyna Klimek,ENG,Freelancer,21,W@H,1535469
-Amanuel Maruta,28106,"Maruta, Amanuel",,,GQ,Gdansk,Justyna Klimek,ENG,Freelancer,21,W@H,1534947
-Enderiays Degifa,28107,"Degifa, Enderiays",,,GQ,Gdansk,Dawid Czaplak,ENG,Freelancer,21,W@H,1535058
-HERMELA GEBREKIDAN,28108,"GEBREKIDAN, HERMELA",,,GQ,Gdansk,Justyna Klimek,ENG,Freelancer,21,W@H,1535475
-Enoh Samuel,28109,"Samuel, Enoh",,,GQ,Gdansk,Lukasz Cierpinski,ENG,Freelancer,21,W@H,1535062
-Tewobstya Tilahun,28110,"Tilahun, Tewobstya",,,GQ,Gdansk,Klaudia Gutowska,ENG,Freelancer,21,W@H,0
-Alina Pietrusiak,28111,"Pietrusiak, Alina",,,GQ,Gdansk,Justyna Klimek,ENG,Freelancer,21,W@H,0
-Yeabsira Bereda,28113,"Bereda, Yeabsira",,,GQ,Gdansk,Klaudia Gutowska,ENG,Freelancer,21,W@H,1534990
-Umuhoza Carine,28114,"Carine, Umuhoza",,,GQ,Gdansk,Agata Mielewczyk,ENG,Freelancer,22,W@H,1534981
-Omar Elmasry,28115,"Elmasry, Omar",,,GQ,Gdansk,Lukasz Cierpinski,ENG,Freelancer,21,W@H,1535032
-Thubalenkosi Ngwenya,28461,"Ngwenya, Thubalenkosi",,,GQ,Gdansk,Klaudia Gutowska,ENG,Freelancer,21,W@H,1534997
-Joanna Bielak,26666,"Bielak, Joanna",,,GQ,Warsaw,Kamran Aliyev,ES/ENG,Freelancer,21,W@H,
-Sara Acevedo Roman,26108,"Acevedo Roman, Sara",,,ES/UK,Sevilla,,ES/ENG,,,,
-Maria Luisa Arellano,26120,"Arellano, Maria Luisa",,,ES/UK,Sevilla,,ES/ENG,,,,
-Aida Barreda,26667,"Barreda, Aida",,,ES/UK,Sevilla,,ES/ENG,,,,
-Cristina Elena Castro,26123,"Castro, Cristina Elena",,,ES/UK,Sevilla,,ES/ENG,,,,
-Teresa CaÃ±ete Rodriguez,26113,"CaÃ±ete Rodriguez, Teresa",,,ES/UK,Sevilla,,ES/ENG,,,,
-Jose Alejo Fernandez,26111,"Fernandez, Jose Alejo",,,ES/UK,Sevilla,,ES/ENG,,,,
-Macarena Gavilan,26107,"Gavilan, Macarena",,,ES/UK,Sevilla,,ES/ENG,,,,
-Inmaculada Gomez Fernandez,26116,"Gomez Fernandez, Inmaculada",,,ES/UK,Sevilla,,Catalan/ES/ENG,,,,
-Mateo Gomez Reina,26106,"Gomez Reina, Mateo",,,ES/UK,Sevilla,,ES/ENG,,,,
-Emily Elizabeth Kelly Ruiz,26125,"Kelly Ruiz, Emily Elizabeth",,,ES/UK,Sevilla,,ES/ENG,,,,
-Maria Soraya Marin,26109,"Marin, Maria Soraya",,,ES/UK,Sevilla,,ES/ENG,,,,
-Martina Mosqueras,26665,"Mosqueras, Martina",,,ES/UK,Sevilla,,ES/ENG,,,,
-Maria Carmen Rios Oliva,26121,"Rios Oliva, Maria Carmen",,,ES/UK,Sevilla,,ES/ENG,,,,
-Miguel Angel Rivera,26117,"Rivera, Miguel Angel",,,ES/UK,Sevilla,,ES/ENG,,,,
-Jose Manuel Sanchez Mateos,26105,"Sanchez Mateos, Jose Manuel",,,ES/UK,Sevilla,,ES/ENG,,,,
-Martin Sempere,26122,"Sempere, Martin",,,ES/UK,Sevilla,,ES/ENG,,,,
-Marta Szewczyk,27476,"Szewczyk, Marta",,,ES/UK,Sevilla,,ES/ENG,,,,
-Aroa Martin,26115,"Martin, Aroa",,,ES/UK,Sevilla,,Catalan/ES/ENG,,,,
-Rocio del Pino,26110,"del Pino, Rocio",,,ES/UK,Sevilla,,ES/ENG,,,,
-Gatari Yvan,24907,"Yvan, Gatari",,,GQ,Gdansk,Jakub Rompa,ENG,,,,
-Mbekezeli Mdutshulwa,28116,"Mdutshulwa, Mbekezeli",,,GQ,Gdansk,Jakub Rompa,ENG,,,,
-INGABIRE ROXANE,28120,"ROXANE, INGABIRE",,,GQ,Gdansk,Jakub Rompa,ENG,,,,
+Immaculée KANYANGE,28929,"KANYANGE, Immaculée",,,GQ ENG,"Warsaw, PL",,FR/ENG,Freelancer,,,
+Adriza Bepari,29257,"Bepari, Adriza",,,GQ ENG,"Warsaw, PL",,ENG,Freelancer,,,
+Aditya Kandula,29258,"Kandula, Aditya",,,GQ ENG,"Warsaw, PL",,ENG,Freelancer,,,
+BHUWAN GC,29259,"GC, BHUWAN",,,GQ ENG,"Warsaw, PL",,ENG,Freelancer,,,
+Brighton Zimondi,29260,"Zimondi, Brighton",,,GQ ENG,"Warsaw, PL",,ENG,Freelancer,,,
+George Egaghe,29261,"Egaghe, George",,,GQ ENG,"Warsaw, PL",,ENG,Freelancer,,,
+Ian Kayihura,29262,"Kayihura, Ian",,,GQ ENG,"Warsaw, PL",,ENG,Freelancer,,,
+James Etieka,29263,"Etieka, James",,,GQ ENG,"Warsaw, PL",,ENG,Freelancer,,,
+Kidus Shwel,29264,"Shwel, Kidus",,,GQ ENG,"Warsaw, PL",,ENG,Freelancer,,,
+Kingsley Ikemirechukwu,29265,"Ikemirechukwu, Kingsley",,,GQ ENG,"Warsaw, PL",,ENG,Freelancer,,,
+Mary Diyaolu,29266,"Diyaolu, Mary",,,GQ ENG,"Warsaw, PL",,ENG,Freelancer,,,
+Miranda Ngwenya,29267,"Ngwenya, Miranda",,,GQ ENG,"Warsaw, PL",,ENG,Freelancer,,,
+Ridwan Olaiya,29269,"Olaiya, Ridwan",,,GQ ENG,"Warsaw, PL",,ENG,Freelancer,,,
+RUFARO MANGWIRO,29270,"MANGWIRO, RUFARO",,,GQ ENG,"Warsaw, PL",,ENG,Freelancer,,,
+Stanley Ucheju,29271,"Ucheju, Stanley",,,GQ ENG,"Warsaw, PL",,ENG,Freelancer,,,
+Tashinga Mutepfa,29272,"Mutepfa, Tashinga",,,GQ ENG,"Warsaw, PL",,ENG,Freelancer,,,
+tinashe mukuwe,29274,"mukuwe, tinashe",,,GQ ENG,"Warsaw, PL",,ENG,Freelancer,,,
+Tyler Sibenge,29275,"Sibenge, Tyler",,,GQ ENG,"Warsaw, PL",,ENG,Freelancer,,,
+Gladys Gono,29276,"Gono, Gladys",,,GQ ENG,"Warsaw, PL",,ENG,Freelancer,,,
+Dibora Endale,29277,"Endale, Dibora",,,GQ ENG,"Warsaw, PL",,ENG,Freelancer,,,
+Nkeiru Okolie,29278,"Okolie, Nkeiru",,,GQ ENG,"Warsaw, PL",,ENG,Freelancer,,,
+NOMANQOBA MASEKO,29279,"MASEKO, NOMANQOBA",,,,,,,Freelancer,,,
+Daisy Mutua,29280,"Mutua, Daisy",,,GQ ENG,"Warsaw, PL",,ENG,Freelancer,,,
+BRAHILE TOMAS,29281,"TOMAS, BRAHILE",,,GQ ENG,"Warsaw, PL",,ES/ENG,Freelancer,,,
+Webster Strategy Manyanga,29899,"StrategyManyanga, Webster",,,GQ ENG,"Warsaw, PL",,ENG,Freelancer,,,
+Bethany Thaha,29511,"Thaha, Bethany",,,AU GQ,Auckland,,ENG,,,,
+Maine Samuel,29512,"Samuel, Maine",,,AU GQ,Auckland,,ENG,,,,
+Kemba James,29513,"James, Kemba",,,AU GQ,Auckland,,ENG,,,,
+Maria Ale,29514,"Ale, Maria",,,AU GQ,Auckland,,ENG,,,,
+Enita Vea,29516,"Vea, Enita",,,AU GQ,Auckland,,ENG,,,,
